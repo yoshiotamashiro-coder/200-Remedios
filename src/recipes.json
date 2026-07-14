@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "001",
+    "category": "Sistema Digestivo",
+    "title": "Té para aliviar la hinchazón",
+    "description": "Un suave té de hierbas elaborado para aliviar los gases, la presión abdominal y la hinchazón después de las comidas. Esta mezcla calmante relaja el sistema digestivo, favorece una digestión más fluida y aporta confort cuando aparece la sensación de pesadez tras comer. Su sabor ligero y aromático lo convierte en un compañero diario reconfortante.",
+    "idealPara": "gases, hinchazón, malestar abdominal después de las comidas",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "después de comidas copiosas o cuando aparezcan síntomas de hinchazón",
+    "precauciones": "evitar durante el embarazo; suspender si la hinchazón persiste más de unos días",
+    "ingredientes": [
+      "1 cucharadita de manzanilla seca",
+      "1 cucharadita de hojas de menta seca",
+      "½ cucharadita de semillas de hinojo",
+      "½ cucharadita de raíz de jengibre seca",
+      "2 tazas de agua caliente",
+      "Miel (opcional)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera o taza resistente al calor.",
+      "Vierte el agua hirviendo sobre las hierbas y cubre.",
+      "Deja reposar durante 10 minutos.",
+      "Cuela en una taza.",
+      "Endulza con miel si lo deseas."
+    ],
+    "dosis": "beber 1 taza después de las comidas, hasta 2 veces al día.",
+    "almacenamiento": "lo mejor es consumirlo fresco; la mezcla de hierbas secas puede conservarse en un recipiente hermético durante 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "002",
+    "category": "Sistema Digestivo",
+    "title": "Tónico suave para la indigestión",
+    "description": "Este tónico herbal suave calma el estómago, reduce la indigestión y ayuda al cuerpo a procesar comidas pesadas o grasientas. Con hierbas carminativas calmantes, alivia suavemente el ardor o la sensación de llenura sin efectos agresivos.",
+    "idealPara": "indigestión, malestar estomacal leve, pesadez después de comer",
+    "tipo": "interno (tónico)",
+    "cuandoUsarlo": "después de comidas abundantes o ricas, o ante los primeros signos de indigestión",
+    "precauciones": "no apto para personas con cálculos biliares o reflujo severo",
+    "ingredientes": [
+      "1 cucharadita de melisa seca",
+      "1 cucharadita de menta seca",
+      "½ cucharadita de raíz de regaliz",
+      "½ cucharadita de raíz de angélica seca",
+      "1 cucharadita de vinagre de sidra de manzana",
+      "1 taza de agua tibia"
+    ],
+    "instrucciones": [
+      "Deja reposar las hierbas secas en agua caliente durante 10 minutos.",
+      "Cuela y vierte en una taza.",
+      "Añade el vinagre de sidra de manzana y remueve.",
+      "Bebe lentamente mientras esté tibio."
+    ],
+    "dosis": "1 taza después de las comidas, según sea necesario, hasta dos veces al día.",
+    "almacenamiento": "preparar fresco cada vez; guardar las hierbas secas hasta 6 meses en un recipiente sellado.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "003",
+    "category": "Sistema Digestivo",
+    "title": "Remedio para el reflujo",
+    "description": "Una infusión herbal calmante formulada para enfriar las sensaciones de ardor en el pecho y la garganta. Su mezcla relajante recubre las membranas mucosas, reduce la acidez y promueve el equilibrio digestivo.",
+    "idealPara": "reflujo ácido, acidez, malestar estomacal agrio",
+    "tipo": "interno (té/infusión)",
+    "cuandoUsarlo": "ante los primeros signos de ardor o después de ingerir alimentos desencadenantes",
+    "precauciones": "no usar en casos de reflujo no controlado a largo plazo; consultar a un profesional si los síntomas persisten",
+    "ingredientes": [
+      "1 cucharadita de raíz de malvavisco",
+      "1 cucharadita de corteza de olmo resbaladizo",
+      "½ cucharadita de raíz de regaliz seca",
+      "1 cucharadita de flores de manzanilla",
+      "1 taza de agua tibia"
+    ],
+    "instrucciones": [
+      "Añade las hierbas a una taza y vierte agua tibia (no hirviendo) sobre ellas.",
+      "Remueve suavemente y deja reposar durante 10 minutos.",
+      "Cuela y bebe lentamente.",
+      "Tómalo tibio para calmar la garganta y el pecho."
+    ],
+    "dosis": "1 taza según sea necesario, hasta 3 veces al día.",
+    "almacenamiento": "lo mejor es prepararlo fresco; mantener la raíz y la corteza secas selladas durante 6–8 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "004",
+    "category": "Sistema Digestivo",
+    "title": "Aceite de alivio para el síndrome del intestino irritable",
+    "description": "Esta mezcla tópica de aceites está diseñada para aliviar los retortijones abdominales, la hinchazón y el malestar asociados con el síndrome del intestino irritable. Aplicada sobre el abdomen, ayuda a relajar los músculos y reducir los espasmos.",
+    "idealPara": "dolor abdominal, espasmos y distensión relacionados con el SII",
+    "tipo": "tópico (aceite de masaje)",
+    "cuandoUsarlo": "al inicio de los calambres o antes de dormir para relajar la digestión",
+    "precauciones": "solo para uso externo; evitar durante el embarazo o sobre piel sensible",
+    "ingredientes": [
+      "2 cucharadas de aceite base (como almendra o jojoba)",
+      "5 gotas de aceite esencial de menta",
+      "5 gotas de aceite esencial de manzanilla",
+      "3 gotas de aceite esencial de jengibre"
+    ],
+    "instrucciones": [
+      "Combina el aceite base con los aceites esenciales en una botella de vidrio limpia.",
+      "Agita suavemente para mezclar.",
+      "Calienta una pequeña cantidad entre las manos.",
+      "Masajea el abdomen con movimientos circulares en el sentido de las agujas del reloj."
+    ],
+    "dosis": "usar 1 cucharadita de aceite por aplicación, hasta dos veces al día.",
+    "almacenamiento": "guardar en una botella de vidrio oscura; se conserva hasta 6 meses en un lugar fresco.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "005",
+    "category": "Sistema Digestivo",
+    "title": "Té para la resaca",
+    "description": "Un té revitalizante que rehidrata el cuerpo, alivia las náuseas y restaura la claridad después de un exceso. Combinando hierbas calmantes y depurativas suaves, ayuda a devolver el equilibrio al organismo.",
+    "idealPara": "síntomas de resaca, náuseas, deshidratación, fatiga",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "por la mañana después del consumo de alcohol o durante la recuperación",
+    "precauciones": "evitar durante el embarazo; no sustituye la hidratación ni el descanso",
+    "ingredientes": [
+      "1 cucharadita de raíz de jengibre seca",
+      "1 cucharadita de hojas de menta",
+      "½ cucharadita de flores de manzanilla",
+      "½ cucharadita de semillas de cardo mariano (ligeramente trituradas)",
+      "2 tazas de agua hirviendo",
+      "Zumo de limón (opcional)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo sobre las hierbas y cubre.",
+      "Deja reposar durante 12 minutos.",
+      "Cuela en una taza.",
+      "Añade zumo de limón si lo deseas."
+    ],
+    "dosis": "beber 1–2 tazas por la mañana según sea necesario.",
+    "almacenamiento": "lo mejor es consumirlo fresco; la mezcla seca se conserva durante 6 meses en un recipiente hermético.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "006",
+    "category": "Sistema Digestivo",
+    "title": "Tónico para la regularidad intestinal",
+    "description": "Un tónico digestivo natural diseñado para favorecer movimientos intestinales sanos y regulares. Suave pero eficaz, combina hierbas ricas en fibra y calmantes para restaurar el equilibrio.",
+    "idealPara": "estreñimiento, digestión lenta, irregularidad",
+    "tipo": "interno (té/tónico)",
+    "cuandoUsarlo": "una vez al día hasta recuperar la regularidad",
+    "precauciones": "evitar durante el embarazo o en caso de obstrucción intestinal",
+    "ingredientes": [
+      "1 cucharadita de hoja de sen seca",
+      "1 cucharadita de semillas de hinojo",
+      "½ cucharadita de raíz de regaliz",
+      "½ cucharadita de raíz de jengibre seca",
+      "1 taza de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Añade las hierbas a una tetera.",
+      "Vierte el agua hirviendo sobre ellas y cubre.",
+      "Deja reposar durante 8–10 minutos.",
+      "Cuela en una taza y bebe lentamente."
+    ],
+    "dosis": "1 taza por la noche, no más de 3 veces por semana.",
+    "almacenamiento": "preparar fresco; la mezcla de hierbas secas se conserva durante 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "007",
+    "category": "Sistema Digestivo",
+    "title": "Poción para úlceras y gastritis",
+    "description": "Esta poción calmante alivia el revestimiento irritado del estómago, reduce la inflamación y favorece la cicatrización de úlceras y gastritis. Las hierbas mucilaginosas recubren el estómago proporcionando un alivio duradero.",
+    "idealPara": "úlceras estomacales, gastritis, dolor abdominal ardiente",
+    "tipo": "interno (tónico)",
+    "cuandoUsarlo": "al inicio del dolor gástrico o diariamente durante los brotes",
+    "precauciones": "evitar si estás embarazada o tomas medicación prolongada sin consejo profesional",
+    "ingredientes": [
+      "1 cucharadita de polvo de corteza de olmo resbaladizo",
+      "1 cucharadita de polvo de raíz de malvavisco",
+      "½ cucharadita de polvo de raíz de regaliz",
+      "1 taza de agua tibia",
+      "Miel (opcional)"
+    ],
+    "instrucciones": [
+      "Mezcla las hierbas en polvo en una taza de agua tibia.",
+      "Remueve bien hasta que se disuelvan.",
+      "Añade miel al gusto si lo deseas.",
+      "Bebe lentamente para recubrir el estómago."
+    ],
+    "dosis": "beber 1 taza hasta dos veces al día durante los brotes.",
+    "almacenamiento": "lo mejor es prepararlo fresco; los polvos duran 6– 8 meses en recipiente hermético.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "008",
+    "category": "Sistema Digestivo",
+    "title": "Gotas desintoxicantes para el hígado graso (Fatty Liver Detox Drops)",
+    "description": "Un extracto herbal concentrado diseñado para apoyar la función hepática, reducir la congestión y favorecer la desintoxicación natural. Esta fórmula combina hierbas depurativas tradicionales que ayudan al cuerpo a procesar las grasas de manera más eficiente, al tiempo que mejoran el bienestar digestivo general.",
+    "idealPara": "hígado graso, digestión lenta, apoyo desintoxicante suave",
+    "tipo": "interno (extracto líquido)",
+    "cuandoUsarlo": "diariamente para apoyo hepático o durante periodos cortos de desintoxicación",
+    "precauciones": "no apto durante el embarazo; consultar a un profesional si se toman medicamentos recetados para el hígado",
+    "ingredientes": [
+      "2 cucharadas de raíz de diente de león (seca y picada)",
+      "2 cucharadas de semillas de cardo mariano (trituradas)",
+      "1 cucharada de raíz de bardana",
+      "1 cucharada de raíz de jengibre",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un frasco de vidrio esterilizado.",
+      "Vierte el alcohol sobre las hierbas, asegurándote de que queden completamente cubiertas.",
+      "Sella bien el frasco y guárdalo en un lugar fresco y oscuro durante 4 semanas, agitando cada 2–3 días.",
+      "Cuela a través de una tela fina y transfiere el líquido a una botella de vidrio oscuro con cuentagotas."
+    ],
+    "dosis": "tomar de 20 a 30 gotas disueltas en agua, hasta dos veces al día.",
+    "almacenamiento": "conservar en un lugar fresco y oscuro; se mantiene hasta 1 año.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "009",
+    "category": "Sistema Digestivo",
+    "title": "Limpieza antiparasitaria con semillas de papaya",
+    "description": "Un remedio digestivo probado por el tiempo que utiliza las enzimas naturales de las semillas de papaya para ayudar a eliminar parásitos intestinales y favorecer la salud intestinal. Combinado con hierbas calmantes, este preparado restaura el equilibrio y promueve una digestión más fluida.",
+    "idealPara": "parásitos intestinales, digestión lenta, desequilibrio intestinal",
+    "tipo": "interno (polvo/tónico)",
+    "cuandoUsarlo": "durante 7–10 días en rutinas de limpieza",
+    "precauciones": "evitar durante el embarazo o si se es propenso a úlceras estomacales; no usar por periodos prolongados",
+    "ingredientes": [
+      "2 cucharadas de semillas de papaya secas (molidas)",
+      "1 cucharadita de jengibre seco en polvo",
+      "½ cucharadita de cúrcuma en polvo",
+      "½ cucharadita de pimienta negra",
+      "1 taza de agua tibia o zumo fresco"
+    ],
+    "instrucciones": [
+      "Muele las semillas de papaya hasta obtener un polvo fino.",
+      "Mezcla con el jengibre, la cúrcuma y la pimienta negra.",
+      "Remueve en agua tibia o zumo hasta que esté bien combinado.",
+      "Bebe inmediatamente para obtener el mejor efecto."
+    ],
+    "dosis": "tomar una vez al día durante un máximo de 10 días mientras dure la limpieza antiparasitaria.",
+    "almacenamiento": "guarda la mezcla de semillas y especias en un recipiente hermético; se conserva hasta 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "010",
+    "category": "Sistema Digestivo",
+    "title": "Aceite calmante para hemorroides (Soothing Hemorrhoid Relief Oil)",
+    "description": "Un aceite tópico calmante diseñado para reducir la hinchazón, aliviar el picor y calmar la irritación causada por las hemorroides. Las hierbas y aceites refrescantes proporcionan un alivio rápido mientras favorecen la regeneración de los tejidos.",
+    "idealPara": "hemorroides, picor, inflamación, molestias anales",
+    "tipo": "tópico (aceite)",
+    "cuandoUsarlo": "al inicio de los síntomas o después de las evacuaciones",
+    "precauciones": "solo para uso externo; suspender si aparece irritación",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco (o aceite de almendra como base)",
+      "5 gotas de extracto de hamamelis (o agua de rosas como sustituto)",
+      "5 gotas de aceite esencial de lavanda",
+      "3 gotas de aceite esencial de manzanilla"
+    ],
+    "instrucciones": [
+      "Derrite suavemente el aceite de coco si está sólido.",
+      "Añade el hamamelis y los aceites esenciales.",
+      "Mezcla bien y transfiere a una botella de vidrio oscuro."
+    ],
+    "dosis": "aplica unas gotas externamente con un algodón limpio, hasta dos veces al día.",
+    "almacenamiento": "conservar en un lugar fresco; dura hasta 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "011",
+    "category": "Sistema Digestivo",
+    "title": "Elixir de jengibre y menta contra las náuseas (Anti-Nausea Ginger-Mint Elixir)",
+    "description": "Un elixir herbal refrescante elaborado para aliviar rápidamente las náuseas, el malestar y las molestias digestivas. La combinación de jengibre y menta calma el estómago, reduce los espasmos y ayuda a restablecer el equilibrio tras viajes, sensibilidades alimentarias o trastornos leves del estómago.",
+    "idealPara": "náuseas, mareo, cinetosis, malestar digestivo",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "ante los primeros signos de náusea o durante los viajes",
+    "precauciones": "evitar durante el embarazo sin orientación profesional; no usar en casos de náusea crónica sin control",
+    "ingredientes": [
+      "1 cucharadita de raíz de jengibre fresca (rallada)",
+      "1 cucharadita de hojas de menta seca",
+      "½ cucharadita de semillas de hinojo",
+      "1 cucharadita de miel (opcional)",
+      "1 taza de agua caliente"
+    ],
+    "instrucciones": [
+      "Coloca el jengibre, la menta y las semillas de hinojo en una taza.",
+      "Vierte el agua caliente y cubre.",
+      "Deja reposar durante 8–10 minutos.",
+      "Cuela en una taza limpia.",
+      "Añade miel si lo deseas."
+    ],
+    "dosis": "sorber lentamente 1 taza al inicio de la náusea, hasta 2 veces al día.",
+    "almacenamiento": "lo mejor es consumirlo fresco; la mezcla seca se conserva 6 meses en un recipiente hermético.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "012",
+    "category": "Sistema Cardiovascular",
+    "title": "Té chispeante para la circulación",
+    "description": "Un té cálido que estimula la circulación saludable y aumenta la energía en manos y pies fríos. Su mezcla de especias y hierbas estimulantes favorece suavemente el flujo sanguíneo y proporciona una sensación reconfortante.",
+    "idealPara": "mala circulación, manos y pies fríos, baja energía",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "durante el clima frío o cuando la circulación se sienta lenta",
+    "precauciones": "evitar si se toman anticoagulantes o durante el embarazo",
+    "ingredientes": [
+      "1 cucharadita de raíz de jengibre seca",
+      "1 cucharadita de hojas de romero secas",
+      "½ cucharadita de copos de pimienta de cayena seca",
+      "1 cucharadita de pétalos de hibisco secos",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y cubre.",
+      "Deja reposar durante 10 minutos.",
+      "Cuela en una taza y bebe caliente."
+    ],
+    "dosis": "beber 1 taza al día, hasta 2 si es necesario.",
+    "almacenamiento": "guarda la mezcla de hierbas secas en un recipiente hermético durante 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "013",
+    "category": "Sistema Cardiovascular",
+    "title": "Tónico cardíaco de canela para la presión arterial",
+    "description": "Un tónico calmante que combina las cualidades cardioprotectoras de la canela y el espino blanco. Ayuda a regular la presión arterial mientras aporta calidez y bienestar.",
+    "idealPara": "presión arterial alta, salud del corazón, apoyo circulatorio",
+    "tipo": "interno (té/tónico)",
+    "cuandoUsarlo": "diariamente como tónico de apoyo cardíaco",
+    "precauciones": "consultar a un profesional si se toman medicamentos para la presión arterial",
+    "ingredientes": [
+      "1 cucharadita de trozos de corteza de canela",
+      "1 cucharadita de bayas de espino blanco secas",
+      "½ cucharadita de pétalos de hibisco secos",
+      "1 cucharadita de melisa seca",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Combina las hierbas en una tetera.",
+      "Vierte el agua hirviendo y cubre.",
+      "Deja reposar durante 15 minutos.",
+      "Cuela en una taza y bebe lentamente."
+    ],
+    "dosis": "beber 1 taza diaria; el uso prolongado es seguro.",
+    "almacenamiento": "mantener las hierbas secas selladas en un lugar fresco y seco hasta por 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "014",
+    "category": "Sistema Cardiovascular",
+    "title": "Elixir de apoyo para el azúcar en sangre",
+    "description": "Un elixir equilibrante elaborado con hierbas conocidas por estabilizar los niveles de azúcar en sangre y mejorar la sensibilidad a la insulina. También ayuda a mantener la energía y a reducir los antojos de azúcar.",
+    "idealPara": "azúcar alta en sangre, antojos, equilibrio energético",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "apoyo diario para el control del azúcar en sangre",
+    "precauciones": "controlar si se toman medicamentos para la diabetes",
+    "ingredientes": [
+      "2 cucharadas de semillas de fenogreco",
+      "1 cucharada de ramas de canela",
+      "1 cucharada de hojas secas de arándano (bilberry)",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un frasco de vidrio esterilizado.",
+      "Cubre completamente con el alcohol.",
+      "Sella y guarda en un lugar oscuro durante 4 semanas, agitando con frecuencia.",
+      "Cuela y guarda en una botella con cuentagotas."
+    ],
+    "dosis": "tomar de 20 a 30 gotas en agua dos veces al día.",
+    "almacenamiento": "se conserva hasta 1 año en un lugar fresco y oscuro.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "015",
+    "category": "Sistema Cardiovascular",
+    "title": "Mezcla De Remolacha Para La Presión Arterial",
+    "description": "Una mezcla vibrante que utiliza la remolacha por sus nitratos naturales, ayudando a reducir la presión arterial y mejorar la circulación. Su sabor terroso combina bien con un toque de jengibre y limón.",
+    "idealPara": "presión arterial alta, circulación, resistencia",
+    "tipo": "interno (mezcla de zumo)",
+    "cuandoUsarlo": "por la mañana o antes del ejercicio",
+    "precauciones": "no recomendado en casos de cálculos renales o presión baja",
+    "ingredientes": [
+      "1 remolacha mediana fresca, pelada y picada",
+      "1 zanahoria pequeña, pelada y picada",
+      "1 trozo de 2,5 cm de jengibre fresco",
+      "Zumo de ½ limón",
+      "1 taza de agua"
+    ],
+    "instrucciones": [
+      "Añade la remolacha, la zanahoria y el jengibre a una licuadora con el agua.",
+      "Licúa hasta obtener una mezcla homogénea.",
+      "Cuela si prefieres un zumo más claro.",
+      "Añade el zumo de limón antes de servir."
+    ],
+    "dosis": "beber 1 vaso al día.",
+    "almacenamiento": "mejor fresco; refrigerar solo hasta 24 horas.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "016",
+    "category": "Sistema Cardiovascular",
+    "title": "Infusión depurativa para el colesterol (Cholesterol Cleanse Brew)",
+    "description": "Una infusión herbal que favorece niveles saludables de colesterol al mejorar el metabolismo de las grasas y depurar el hígado.",
+    "idealPara": "colesterol alto, apoyo hepático, metabolismo de las grasas",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente para equilibrar el colesterol a largo plazo",
+    "precauciones": "evitar durante el embarazo; consultar si se toman medicamentos para reducir el colesterol",
+    "ingredientes": [
+      "1 cucharadita de hoja de alcachofa seca",
+      "1 cucharadita de raíz de diente de león seca",
+      "½ cucharadita de raíz de jengibre seca",
+      "1 cucharadita de melisa seca",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y cubre.",
+      "Deja reposar durante 12 minutos.",
+      "Cuela y sirve caliente."
+    ],
+    "dosis": "beber 1 taza al día, hasta 2 para mayor apoyo.",
+    "almacenamiento": "guarda la mezcla seca en un frasco hermético durante 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "017",
+    "category": "Sistema Cardiovascular",
+    "title": "Tónico cálido para las venas",
+    "description": "Un tónico circulatorio que fortalece los vasos sanguíneos y reduce las molestias causadas por una mala salud venosa. Es especialmente útil para las várices y la sensación de piernas pesadas.",
+    "idealPara": "venas varicosas, problemas circulatorios, molestias en las piernas",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente como apoyo para las venas",
+    "precauciones": "evitar durante el embarazo; consultar si se toma medicación para la circulación",
+    "ingredientes": [
+      "1 cucharadita de castaño de Indias seco",
+      "1 cucharadita de raíz de rusco (butcher’s broom) seca",
+      "½ cucharadita de raíz de jengibre seca",
+      "1 cucharadita de hoja de ortiga seca",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Añade las hierbas a una tetera.",
+      "Vierte el agua hirviendo y cubre.",
+      "Deja reposar de 12 a 15 minutos.",
+      "Cuela antes de servir."
+    ],
+    "dosis": "beber 1 taza al día.",
+    "almacenamiento": "mantener la mezcla seca sellada durante 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "018",
+    "category": "Sistema Cardiovascular",
+    "title": "Gel para piernas cansadas",
+    "description": "Un gel refrescante que calma las piernas pesadas y cansadas con hierbas y aceites esenciales de efecto refrescante. Aplicado de forma tópica, ayuda a aliviar la hinchazón y mejorar la sensación de confort.",
+    "idealPara": "piernas hinchadas, pesadas o cansadas",
+    "tipo": "tópico (gel)",
+    "cuandoUsarlo": "por la noche o después de largos periodos de pie",
+    "precauciones": "solo para uso externo; evitar el contacto con los ojos",
+    "ingredientes": [
+      "½ taza de gel de aloe vera",
+      "5 gotas de aceite esencial de menta",
+      "5 gotas de aceite esencial de lavanda",
+      "1 cucharadita de extracto de hamamelis"
+    ],
+    "instrucciones": [
+      "Coloca el gel de aloe vera en un cuenco limpio.",
+      "Añade los aceites esenciales y el hamamelis.",
+      "Mezcla bien hasta que quede homogéneo.",
+      "Transfiere a un frasco limpio."
+    ],
+    "dosis": "aplica una capa fina sobre las piernas según sea necesario.",
+    "almacenamiento": "conservar refrigerado; dura hasta 2 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "019",
+    "category": "Sistema Cardiovascular",
+    "title": "Compresa para un corazón roto",
+    "description": "Una compresa herbal reconfortante diseñada para calmar la tensión emocional y aliviar la opresión en el pecho durante el duelo o el estrés. La infusión cálida de hierbas proporciona una liberación suave.",
+    "idealPara": "estrés emocional, duelo, opresión en el pecho",
+    "tipo": "externo (compresa)",
+    "cuandoUsarlo": "en momentos de tensión emocional o ansiedad",
+    "precauciones": "solo para uso externo; evitar compresas demasiado calientes",
+    "ingredientes": [
+      "1 cucharada de flores de lavanda secas",
+      "1 cucharada de pétalos de rosa secos",
+      "1 cucharadita de manzanilla seca",
+      "2 tazas de agua caliente",
+      "Paño de algodón suave"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un cuenco.",
+      "Vierte el agua caliente y deja reposar 10 minutos.",
+      "Cuela y empapa un paño en la infusión.",
+      "Aplica la compresa tibia sobre el pecho durante 10–15 minutos."
+    ],
+    "dosis": "usar según sea necesario durante el estrés emocional.",
+    "almacenamiento": "preparar fresco cada vez.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "020",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Gotas “Nature’s Zempic”",
+    "description": "Un extracto herbal concentrado inspirado en remedios tradicionales para equilibrar el apetito. Esta fórmula líquida favorece la saciedad, reduce los antojos y promueve una actividad metabólica más fluida. Suave pero efectiva, ayuda a restablecer el equilibrio sin estimulantes agresivos.",
+    "idealPara": "control del apetito, antojos de azúcar, equilibrio metabólico",
+    "tipo": "interno (gotas líquidas)",
+    "cuandoUsarlo": "15–20 minutos antes de las comidas",
+    "precauciones": "evitar durante el embarazo; consultar a un profesional si se toman medicamentos para el azúcar en sangre",
+    "ingredientes": [
+      "2 cucharadas de hojas de Gymnema sylvestre (secas, picadas)",
+      "1 cucharada de rodajas de melón amargo (secas)",
+      "1 cucharada de raíz de jengibre",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un frasco de vidrio esterilizado.",
+      "Cubre con el alcohol, asegurándote de que las hierbas queden completamente sumergidas.",
+      "Sella bien y guarda en un lugar fresco y oscuro durante 4 semanas, agitando cada 2–3 días.",
+      "Cuela y vierte en una botella de vidrio oscuro con cuentagotas."
+    ],
+    "dosis": "tomar de 15 a 20 gotas en agua, hasta dos veces al día.",
+    "almacenamiento": "conservar en un lugar fresco y oscuro; se mantiene hasta 1 año.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "021",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Café matutino metabólico",
+    "description": "Una infusión cálida que combina achicoria tostada, cacao y hierbas energizantes para comenzar el día estimulando el metabolismo. Esta alternativa al café proporciona energía constante y apoyo digestivo sin nerviosismo.",
+    "idealPara": "energía matutina, apoyo metabólico, reemplazo del café",
+    "tipo": "interno (bebida caliente)",
+    "cuandoUsarlo": "por la mañana, en lugar del café",
+    "precauciones": "no apto durante el embarazo ni para personas sensibles a hierbas con efecto similar a la cafeína",
+    "ingredientes": [
+      "1 cucharada de raíz de achicoria tostada",
+      "1 cucharadita de raíz de diente de león tostada",
+      "1 cucharadita de nibs de cacao",
+      "½ cucharadita de canela",
+      "2 tazas de agua caliente",
+      "Leche vegetal (opcional)"
+    ],
+    "instrucciones": [
+      "Añade todos los ingredientes a una prensa francesa o tetera.",
+      "Vierte el agua caliente y deja reposar 10 minutos.",
+      "Cuela y sirve con leche si lo deseas."
+    ],
+    "dosis": "1 taza diaria por la mañana.",
+    "almacenamiento": "preparar fresco; la mezcla seca se conserva 6 meses en un frasco hermético.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "022",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Barras “Gut Glow”",
+    "description": "Un snack herbal rico en nutrientes diseñado para nutrir el intestino, facilitar la digestión y reducir los antojos dulces. Las hierbas ricas en fibra y prebióticos favorecen una flora intestinal saludable mientras te mantienen saciado entre comidas.",
+    "idealPara": "picoteo, salud intestinal, control de antojos dulces",
+    "tipo": "interno (snack)",
+    "cuandoUsarlo": "entre comidas o como postre saludable",
+    "precauciones": "contiene miel; evitar si hay alergia",
+    "ingredientes": [
+      "1 taza de copos de avena",
+      "½ taza de mantequilla de almendras",
+      "3 cucharadas de miel",
+      "2 cucharadas de linaza molida",
+      "2 cucharadas de flores de manzanilla secas (en polvo)",
+      "1 cucharada de canela"
+    ],
+    "instrucciones": [
+      "En un bol, mezcla la mantequilla de almendras y la miel hasta obtener una textura suave.",
+      "Incorpora la avena, la linaza, la manzanilla y la canela.",
+      "Presiona la mezcla en un molde forrado y refrigera durante 2 horas.",
+      "Corta en barritas."
+    ],
+    "dosis": "1 barrita diaria como snack.",
+    "almacenamiento": "guardar en recipiente hermético en el frigorífico durante 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "023",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Té depurativo de antojos",
+    "description": "Un té equilibrante que reduce los antojos de azúcar y restaura la claridad del paladar. Las hierbas amargas y aromáticas ayudan a disminuir el deseo de dulces y comidas pesadas.",
+    "idealPara": "antojos de azúcar, comer en exceso, digestión lenta",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "entre comidas o ante los primeros signos de antojos",
+    "precauciones": "evitar durante el embarazo; no usar a largo plazo en casos de enfermedad hepática",
+    "ingredientes": [
+      "1 cucharadita de raíz de diente de león",
+      "1 cucharadita de hojas de gymnema",
+      "½ cucharadita de corteza de canela",
+      "½ cucharadita de raíz de jengibre",
+      "2 tazas de agua caliente"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua caliente y cubre.",
+      "Deja reposar de 8 a 10 minutos.",
+      "Cuela y bebe lentamente."
+    ],
+    "dosis": "1 taza hasta dos veces al día.",
+    "almacenamiento": "preparar fresco; la mezcla seca se conserva 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "024",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Caldo equilibrante del apetito",
+    "description": "Un caldo herbal salado que favorece la saciedad y reduce el exceso al comer. Rico en minerales y de sabor suave, nutre mientras calma los antojos.",
+    "idealPara": "control del apetito, alimentación consciente, comidas ligeras",
+    "tipo": "interno (caldo)",
+    "cuandoUsarlo": "antes de las comidas o como cena ligera",
+    "precauciones": "evitar el uso excesivo si se sigue una dieta baja en sodio",
+    "ingredientes": [
+      "2 tazas de caldo de verduras",
+      "1 cucharada de copos de alga marina",
+      "1 cucharadita de raíz de jengibre",
+      "1 cucharadita de semillas de hinojo",
+      "½ cucharadita de cúrcuma",
+      "Perejil fresco para decorar"
+    ],
+    "instrucciones": [
+      "Añade todos los ingredientes a una olla.",
+      "Cocina a fuego lento durante 15 minutos.",
+      "Cuela o sirve con las hierbas para dar textura."
+    ],
+    "dosis": "1 taza antes de las comidas.",
+    "almacenamiento": "conservar en el refrigerador hasta 3 días; recalentar antes de usar.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "025",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Gotas de apoyo a la saciedad",
+    "description": "Una tintura herbal potente formulada para ralentizar ligeramente la digestión, mejorando la sensación de saciedad y reduciendo el exceso al comer. Tradicionalmente utilizada para equilibrar el apetito.",
+    "idealPara": "reducción del apetito, control de porciones, alimentación consciente",
+    "tipo": "interno (gotas)",
+    "cuandoUsarlo": "15 minutos antes de las comidas",
+    "precauciones": "no apto durante el embarazo o con trastornos digestivos",
+    "ingredientes": [
+      "2 cucharadas de semillas de fenogreco",
+      "1 cucharada de semillas de hinojo",
+      "1 cucharada de hojas de gymnema",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Combina las hierbas en un frasco esterilizado.",
+      "Cubre con el alcohol, sella y guarda en un lugar oscuro.",
+      "Agita cada 2–3 días durante 4 semanas.",
+      "Cuela y guarda en una botella con cuentagotas."
+    ],
+    "dosis": "15–20 gotas en agua antes de las comidas.",
+    "almacenamiento": "se conserva hasta 1 año en un lugar fresco y oscuro.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "026",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Cápsulas de reinicio metabólico",
+    "description": "Una mezcla natural de hierbas en polvo encapsuladas para estimular suavemente el metabolismo y mejorar la digestión. Ideal para apoyo diario constante.",
+    "idealPara": "salud metabólica, digestión lenta, equilibrio de peso suave",
+    "tipo": "interno (cápsulas)",
+    "cuandoUsarlo": "diariamente, con las comidas",
+    "precauciones": "evitar durante el embarazo o en casos de trastornos digestivos crónicos",
+    "ingredientes": [
+      "2 cucharadas de polvo de té verde",
+      "2 cucharadas de jengibre en polvo",
+      "1 cucharada de cúrcuma en polvo",
+      "1 cucharada de pimienta de cayena (dosis suave)",
+      "Cápsulas vegetarianas vacías"
+    ],
+    "instrucciones": [
+      "Mezcla todos los polvos uniformemente en un bol.",
+      "Llena las cápsulas vacías usando una máquina encapsuladora.",
+      "Guarda las cápsulas en un recipiente hermético."
+    ],
+    "dosis": "tomar 1 cápsula dos veces al día con las comidas.",
+    "almacenamiento": "conservar en lugar fresco y seco; dura hasta 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "027",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Tónico dorado metabólico",
+    "description": "Un tónico cálido infusionado con cúrcuma, jengibre y hierbas que apoyan la digestión. Esta mezcla dorada impulsa el metabolismo, reduce la inflamación y favorece un procesamiento suave de las grasas.",
+    "idealPara": "impulso metabólico, inflamación, digestión lenta",
+    "tipo": "interno (tónico)",
+    "cuandoUsarlo": "al mediodía o antes del ejercicio",
+    "precauciones": "evitar durante el embarazo o en casos de cálculos biliares",
+    "ingredientes": [
+      "1 taza de leche de almendras tibia (u otra leche vegetal)",
+      "1 cucharadita de cúrcuma en polvo",
+      "½ cucharadita de jengibre en polvo",
+      "½ cucharadita de canela",
+      "Pizca de pimienta negra",
+      "1 cucharadita de miel (opcional)"
+    ],
+    "instrucciones": [
+      "Calienta la leche de almendras hasta que esté tibia.",
+      "Bate la cúrcuma, el jengibre, la canela y la pimienta.",
+      "Remueve hasta que quede suave y dorado.",
+      "Endulza con miel si lo deseas."
+    ],
+    "dosis": "1 taza diaria, preferiblemente con las comidas.",
+    "almacenamiento": "preparar fresco; la mezcla seca de especias puede conservarse 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "028",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Batido “Jungle Glow” con yerba mate",
+    "description": "Un batido energizante que combina yerba mate con frutas tropicales y hierbas beneficiosas para el intestino. Proporciona energía constante, reduce los antojos y apoya un metabolismo equilibrado.",
+    "idealPara": "energía, antojos, metabolismo, concentración",
+    "tipo": "interno (batido)",
+    "cuandoUsarlo": "por la mañana o como refuerzo a media jornada",
+    "precauciones": "contiene cafeína; evitar durante el embarazo o en problemas cardíacos",
+    "ingredientes": [
+      "1 taza de yerba mate preparada (enfriada)",
+      "½ taza de trozos de piña",
+      "½ plátano",
+      "1 cucharadita de polvo de maca",
+      "½ cucharadita de jengibre en polvo",
+      "½ taza de leche de almendras"
+    ],
+    "instrucciones": [
+      "Prepara la yerba mate y deja enfriar.",
+      "Licúa con la fruta, la maca, el jengibre y la leche de almendras.",
+      "Vierte en un vaso y sirve frío."
+    ],
+    "dosis": "1 batido al día.",
+    "almacenamiento": "beber fresco; no guardar.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "029",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Gomitas “Craving Crusher”",
+    "description": "Gomitas herbales masticables que combinan hierbas amargas con dulzura natural para reducir los antojos y fomentar una alimentación consciente. Fáciles de llevar y usar en cualquier momento.",
+    "idealPara": "antojos de azúcar, control de picoteo, equilibrio del apetito",
+    "tipo": "interno (gomitas)",
+    "cuandoUsarlo": "entre comidas o durante los antojos",
+    "precauciones": "contiene gelatina; evitar si se sigue una dieta vegetariana/vegana salvo sustituto",
+    "ingredientes": [
+      "1 taza de té herbal (diente de león + manzanilla)",
+      "2 cucharadas de zumo de limón",
+      "2 cucharadas de miel",
+      "3 cucharadas de gelatina en polvo"
+    ],
+    "instrucciones": [
+      "Prepara un té herbal concentrado y cuela.",
+      "Añade el zumo de limón y la miel mientras esté tibio.",
+      "Espolvorea la gelatina y bate hasta disolver.",
+      "Vierte en moldes y refrigera hasta que cuajen."
+    ],
+    "dosis": "2–3 gomitas al día.",
+    "almacenamiento": "conservar en el refrigerador hasta 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "030",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Gotas de apoyo a la saciedad",
+    "description": "Una tintura herbal potente formulada para ralentizar ligeramente la digestión, mejorando la sensación de saciedad y reduciendo el exceso al comer. Tradicionalmente utilizada para equilibrar el apetito.",
+    "idealPara": "reducción del apetito, control de porciones, alimentación consciente",
+    "tipo": "interno (gotas)",
+    "cuandoUsarlo": "15 minutos antes de las comidas",
+    "precauciones": "no apto durante el embarazo o con trastornos digestivos",
+    "ingredientes": [
+      "2 cucharadas de semillas de fenogreco",
+      "1 cucharada de semillas de hinojo",
+      "1 cucharada de hojas de gymnema",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Combina las hierbas en un frasco esterilizado.",
+      "Cubre con el alcohol, sella y guarda en un lugar oscuro.",
+      "Agita cada 2–3 días durante 4 semanas.",
+      "Cuela y guarda en una botella con cuentagotas."
+    ],
+    "dosis": "15–20 gotas en agua antes de las comidas.",
+    "almacenamiento": "se conserva hasta 1 año en un lugar fresco y oscuro.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "031",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Cápsulas de reinicio metabólico",
+    "description": "Una mezcla natural de hierbas en polvo encapsuladas para estimular suavemente el metabolismo y mejorar la digestión. Ideal para apoyo diario constante.",
+    "idealPara": "salud metabólica, digestión lenta, equilibrio de peso suave",
+    "tipo": "interno (cápsulas)",
+    "cuandoUsarlo": "diariamente, con las comidas",
+    "precauciones": "evitar durante el embarazo o en casos de trastornos digestivos crónicos",
+    "ingredientes": [
+      "2 cucharadas de polvo de té verde",
+      "2 cucharadas de jengibre en polvo",
+      "1 cucharada de cúrcuma en polvo",
+      "1 cucharada de pimienta de cayena (dosis suave)",
+      "Cápsulas vegetarianas vacías"
+    ],
+    "instrucciones": [
+      "Mezcla todos los polvos uniformemente en un bol.",
+      "Llena las cápsulas vacías usando una máquina encapsuladora.",
+      "Guarda las cápsulas en un recipiente hermético."
+    ],
+    "dosis": "tomar 1 cápsula dos veces al día con las comidas.",
+    "almacenamiento": "conservar en lugar fresco y seco; dura hasta 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "032",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Jarabe para la tos Amish",
+    "description": "Un tónico inmunológico tradicional que también actúa como calmante para la tos. Esta mezcla ardiente combina vinagre de sidra de manzana, miel y hierbas cálidas para despejar la congestión, estimular la circulación y calmar las toses persistentes.",
+    "idealPara": "tos, congestión, resfriados",
+    "tipo": "interno (jarabe)",
+    "cuandoUsarlo": "al inicio de los síntomas de tos o resfriado",
+    "precauciones": "no apto para niños menores de 1 año (contiene miel); evitar si se es sensible a las especias fuertes",
+    "ingredientes": [
+      "1 taza de vinagre de sidra de manzana",
+      "½ taza de miel cruda",
+      "2 cucharadas de raíz de rábano picante rallada",
+      "2 cucharadas de cebolla picada",
+      "1 cucharada de raíz de jengibre rallada",
+      "2 dientes de ajo picados",
+      "1 cucharadita de pimienta de cayena"
+    ],
+    "instrucciones": [
+      "Combina todos los ingredientes en un frasco esterilizado.",
+      "Sella bien y deja infusionar durante 2 semanas, agitándolo a diario.",
+      "Cuela con una gasa y guarda el líquido en una botella de vidrio oscuro."
+    ],
+    "dosis": "1–2 cucharaditas hasta 3 veces al día.",
+    "almacenamiento": "refrigerar después de colar; se conserva hasta 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "033",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Pastillas caseras para la tos",
+    "description": "Pastillas calmantes infusionadas con miel, jengibre y hierbas para recubrir la garganta y aliviar la tos. Convenientes, portátiles y naturalmente dulces.",
+    "idealPara": "tos seca, garganta irritada, irritación",
+    "tipo": "interno (pastilla)",
+    "cuandoUsarlo": "según necesidad a lo largo del día",
+    "precauciones": "no aptas para niños menores de 1 año",
+    "ingredientes": [
+      "1 taza de miel cruda",
+      "2 cucharadas de raíz de jengibre seca (en polvo)",
+      "1 cucharada de hojas de tomillo secas",
+      "1 cucharada de zumo de limón"
+    ],
+    "instrucciones": [
+      "Calienta la miel suavemente hasta que se vuelva líquida (no hervir).",
+      "Añade el jengibre, el tomillo y el limón.",
+      "Vierte pequeñas gotas sobre papel pergamino y deja endurecer.",
+      "Guarda en una lata una vez firmes."
+    ],
+    "dosis": "chupar 1 pastilla según sea necesario.",
+    "almacenamiento": "conservar en una lata hermética hasta 2 semanas.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "034",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Spray nasal “Respira Fácil”",
+    "description": "Una infusión salina y herbal simple para hidratar las fosas nasales y aliviar la congestión. Suave y eficaz para el apoyo respiratorio diario.",
+    "idealPara": "congestión nasal, sequedad, alergias",
+    "tipo": "tópico (spray nasal)",
+    "cuandoUsarlo": "2–3 veces al día según necesidad",
+    "precauciones": "usar agua estéril; evitar compartir el frasco",
+    "ingredientes": [
+      "1 taza de agua destilada",
+      "½ cucharadita de sal marina",
+      "¼ cucharadita de bicarbonato de sodio",
+      "1 cucharadita de té de manzanilla (preparado y enfriado)"
+    ],
+    "instrucciones": [
+      "Disuelve la sal y el bicarbonato en el agua destilada.",
+      "Añade el té de manzanilla enfriado y remueve.",
+      "Vierte en un frasco de spray nasal estéril."
+    ],
+    "dosis": "1–2 pulverizaciones por fosa nasal, hasta 3 veces al día.",
+    "almacenamiento": "mantener refrigerado; usar dentro de 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "035",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Gomitas “Lung Love”",
+    "description": "Gomitas herbales masticables que aportan hierbas que apoyan la salud pulmonar en una forma sabrosa. Ideales para calmar la irritación y fortalecer la resistencia respiratoria.",
+    "idealPara": "salud pulmonar, apoyo para la tos, inmunidad",
+    "tipo": "interno (gomitas)",
+    "cuandoUsarlo": "diariamente durante la temporada de resfriados o gripe",
+    "precauciones": "contiene gelatina; sustituir por agar-agar para opción vegana",
+    "ingredientes": [
+      "1 taza de té herbal concentrado (gordolobo, raíz de regaliz, jengibre)",
+      "2 cucharadas de zumo de limón",
+      "3 cucharadas de miel",
+      "3 cucharadas de gelatina en polvo"
+    ],
+    "instrucciones": [
+      "Prepara un té fuerte y cuela.",
+      "Añade el zumo de limón y la miel.",
+      "Espolvorea la gelatina y bate hasta que quede homogéneo.",
+      "Vierte en moldes y refrigera hasta que cuajen."
+    ],
+    "dosis": "2–3 gomitas al día.",
+    "almacenamiento": "conservar en el refrigerador hasta 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "036",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Té “Cold & Flu Knockout”",
+    "description": "Un té herbal potente que calienta el cuerpo, alivia los escalofríos y fortalece el sistema inmunitario para combatir resfriados y gripe.",
+    "idealPara": "resfriados, gripe, fiebre, escalofríos",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "ante los primeros signos de enfermedad, beber a lo largo del día",
+    "precauciones": "evitar si se es alérgico a la baya del saúco o a la equinácea",
+    "ingredientes": [
+      "1 cucharada de bayas de saúco secas",
+      "1 cucharadita de raíz de equinácea",
+      "1 cucharadita de raíz de jengibre seca",
+      "1 cucharadita de corteza de canela",
+      "2 tazas de agua caliente",
+      "Miel al gusto"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua caliente y deja reposar 15 minutos.",
+      "Cuela y endulza con miel si lo deseas."
+    ],
+    "dosis": "beber 1 taza hasta 3 veces al día.",
+    "almacenamiento": "preparar fresco; la mezcla seca se conserva 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "037",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Bálsamo “Allergy-Ease”",
+    "description": "Un bálsamo tópico que calma la irritación cutánea y ayuda a abrir las fosas nasales durante la temporada de alergias. Las hierbas refrescantes proporcionan alivio suave.",
+    "idealPara": "alergias estacionales, irritación nasal, brotes cutáneos",
+    "tipo": "tópico (bálsamo)",
+    "cuandoUsarlo": "aplicar en el pecho, sienes o debajo de la nariz durante los brotes alérgicos",
+    "precauciones": "solo para uso externo; evitar el contacto con los ojos",
+    "ingredientes": [
+      "½ taza de aceite de coco",
+      "2 cucharadas de cera de abejas",
+      "10 gotas de aceite esencial de menta",
+      "10 gotas de aceite esencial de eucalipto",
+      "5 gotas de aceite esencial de lavanda"
+    ],
+    "instrucciones": [
+      "Derrite el aceite de coco y la cera de abejas al baño maría.",
+      "Añade los aceites esenciales.",
+      "Vierte en pequeños tarros y deja solidificar."
+    ],
+    "dosis": "aplicar una capa fina hasta 3 veces al día.",
+    "almacenamiento": "guardar en lugar fresco; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "038",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Receta de jarabe para la tos de Barbara",
+    "description": "Un remedio familiar tradicional que combina miel, limón y extractos herbales para calmar la tos y el dolor de garganta. Simple, suave y eficaz.",
+    "idealPara": "dolor de garganta, tos seca o leve",
+    "tipo": "interno (jarabe)",
+    "cuandoUsarlo": "al inicio de la irritación de garganta o tos",
+    "precauciones": "no apto para niños menores de 1 año (miel)",
+    "ingredientes": [
+      "1 taza de miel cruda",
+      "¼ taza de zumo de limón",
+      "1 cucharada de raíz de jengibre rallada",
+      "1 cucharadita de hojas de tomillo"
+    ],
+    "instrucciones": [
+      "Calienta la miel suavemente hasta que se vuelva líquida.",
+      "Añade el limón, el jengibre y el tomillo.",
+      "Cocina a fuego muy bajo durante 5 minutos.",
+      "Cuela y guarda en un frasco de vidrio."
+    ],
+    "dosis": "1 cucharadita cada pocas horas según necesidad.",
+    "almacenamiento": "refrigerar; usar dentro de 1 mes.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "039",
+    "category": "Metabolismo y Control de Peso",
+    "title": "Té de apoyo para la fiebre",
+    "description": "Una infusión herbal refrescante que reduce la fiebre, favorece la hidratación y alivia los dolores corporales durante la enfermedad.",
+    "idealPara": "fiebre, dolores, escalofríos, gripe",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "beber a lo largo de la enfermedad para mayor confort",
+    "precauciones": "evitar durante el embarazo; no usar en niños menores de 6 años",
+    "ingredientes": [
+      "1 cucharadita de menta seca",
+      "1 cucharadita de flor de saúco seca",
+      "½ cucharadita de flores de milenrama",
+      "½ cucharadita de melisa",
+      "2 tazas de agua caliente"
+    ],
+    "instrucciones": [
+      "Añade las hierbas a una tetera.",
+      "Vierte el agua caliente y deja reposar 10 minutos.",
+      "Cuela y bebe tibio."
+    ],
+    "dosis": "1 taza cada 3–4 horas según necesidad.",
+    "almacenamiento": "preparar fresco; la mezcla seca de hierbas se conserva 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "040",
+    "category": "Piel y Heridas",
+    "title": "Gel de aloe y lavanda para quemaduras",
+    "description": "Un gel refrescante que calma quemaduras leves, quemaduras solares e irritación de la piel. El aloe aporta hidratación mientras que la lavanda reduce la inflamación y acelera la curación.",
+    "idealPara": "quemaduras leves, quemaduras solares, irritación de la piel",
+    "tipo": "tópico (gel)",
+    "cuandoUsarlo": "inmediatamente después de la quemadura o la irritación",
+    "precauciones": "solo para uso externo; no aplicar sobre heridas abiertas",
+    "ingredientes": [
+      "½ taza de gel de aloe vera",
+      "10 gotas de aceite esencial de lavanda",
+      "1 cucharadita de aceite de vitamina E"
+    ],
+    "instrucciones": [
+      "Coloca el gel de aloe vera en un cuenco limpio.",
+      "Añade los aceites de lavanda y vitamina E.",
+      "Mezcla hasta que quede homogéneo.",
+      "Transfiere a un frasco de vidrio esterilizado."
+    ],
+    "dosis": "aplica una capa fina sobre la piel afectada 2–3 veces al día.",
+    "almacenamiento": "conservar refrigerado; dura 2 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "041",
+    "category": "Piel y Heridas",
+    "title": "Barra calmante para picaduras de insecto",
+    "description": "Un práctico bálsamo en formato stick para reducir el picor, el enrojecimiento y la hinchazón por picaduras de insectos. Refrescante y calmante para un alivio rápido.",
+    "idealPara": "picaduras de mosquito, piel con picor, enrojecimiento",
+    "tipo": "tópico (bálsamo en barra)",
+    "cuandoUsarlo": "tan pronto como se produzcan las picaduras",
+    "precauciones": "solo para uso externo; evitar piel lesionada",
+    "ingredientes": [
+      "2 cucharadas de cera de abejas",
+      "2 cucharadas de aceite de coco",
+      "10 gotas de aceite esencial de árbol de té",
+      "5 gotas de aceite esencial de menta",
+      "5 gotas de aceite esencial de lavanda"
+    ],
+    "instrucciones": [
+      "Derrite la cera de abejas y el aceite de coco al baño maría.",
+      "Retira del fuego e incorpora los aceites esenciales.",
+      "Vierte en tubos tipo bálsamo labial y deja solidificar."
+    ],
+    "dosis": "aplicar directamente sobre las picaduras según sea necesario.",
+    "almacenamiento": "guardar en lugar fresco; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "042",
+    "category": "Piel y Heridas",
+    "title": "Bálsamo herbal calmante para herpes",
+    "description": "Un bálsamo herbal para calmar los brotes, reducir la irritación y apoyar la curación. La melisa y la raíz de regaliz se combinan con aceites calmantes para un cuidado tópico eficaz.",
+    "idealPara": "calenturas, irritación por herpes",
+    "tipo": "tópico (bálsamo)",
+    "cuandoUsarlo": "ante los primeros signos de un brote",
+    "precauciones": "solo para uso externo; no es una cura para el virus del herpes",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "1 cucharada de manteca de karité",
+      "1 cucharada de cera de abejas",
+      "1 cucharada de aceite infusionado de melisa",
+      "½ cucharadita de polvo de raíz de regaliz"
+    ],
+    "instrucciones": [
+      "Derrite la cera de abejas, el aceite de coco y la manteca de karité.",
+      "Incorpora el aceite de melisa y el polvo de regaliz.",
+      "Vierte en pequeños tarros y deja solidificar."
+    ],
+    "dosis": "aplica una capa fina en el área afectada 2–3 veces al día.",
+    "almacenamiento": "guardar en lugar fresco; dura 2–3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "043",
+    "category": "Piel y Heridas",
+    "title": "“Nature’s Botox”",
+    "description": "Un sérum natural para la piel diseñado para reafirmar y tonificar, reduciendo la apariencia de líneas finas. Los aceites de rosa mosqueta y argán nutren, mientras que el incienso alisa la piel.",
+    "idealPara": "arrugas, líneas finas, piel envejecida",
+    "tipo": "tópico (sérum)",
+    "cuandoUsarlo": "mañana y noche después de la limpieza",
+    "precauciones": "solo para uso externo; realiza prueba de parche antes del uso regular",
+    "ingredientes": [
+      "2 cucharadas de aceite de rosa mosqueta",
+      "1 cucharada de aceite de argán",
+      "5 gotas de aceite esencial de incienso",
+      "3 gotas de aceite esencial de lavanda"
+    ],
+    "instrucciones": [
+      "Mezcla todos los aceites en una botella cuentagotas limpia.",
+      "Agita suavemente para integrar.",
+      "Aplica unas gotas sobre la piel tras la limpieza."
+    ],
+    "dosis": "3–4 gotas en el rostro dos veces al día.",
+    "almacenamiento": "guardar en vidrio oscuro; se conserva 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "044",
+    "category": "Piel y Heridas",
+    "title": "Pasta “Wart-Be-Gone”",
+    "description": "Una pasta sencilla y eficaz que utiliza hierbas antivirales potentes para reducir las verrugas con el tiempo.",
+    "idealPara": "verrugas",
+    "tipo": "tópico (pasta)",
+    "cuandoUsarlo": "aplicar por la noche hasta que la verruga desaparezca",
+    "precauciones": "solo para uso externo; evita la piel sana alrededor de la verruga",
+    "ingredientes": [
+      "1 cucharada de ajo fresco triturado",
+      "1 cucharadita de vinagre de sidra de manzana",
+      "1 cucharadita de aceite de ricino",
+      "Pequeña cantidad de harina para espesar"
+    ],
+    "instrucciones": [
+      "Mezcla el ajo, el vinagre y el aceite de ricino.",
+      "Añade harina hasta formar una pasta espesa.",
+      "Aplica directamente sobre la verruga y cubre con una venda."
+    ],
+    "dosis": "aplicar por la noche y dejar 6–8 horas.",
+    "almacenamiento": "preparar fresco a diario.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "045",
+    "category": "Piel y Heridas",
+    "title": "Elixir “Fuente de la Juventud”",
+    "description": "Un elixir interno rejuvenecedor que nutre la piel desde dentro. Rico en antioxidantes, favorece la producción de colágeno y un brillo juvenil.",
+    "idealPara": "envejecimiento de la piel, tez apagada, vitalidad",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "a diario como parte de la rutina de belleza",
+    "precauciones": "evitar durante el embarazo; consultar a un profesional si se toman medicamentos",
+    "ingredientes": [
+      "2 cucharadas de bayas de goji secas",
+      "1 cucharada de pétalos de hibisco",
+      "1 cucharada de escaramujos (rosa mosqueta)",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un frasco esterilizado.",
+      "Cubre con alcohol y sella.",
+      "Guarda 4 semanas en un lugar oscuro, agitando cada pocos días.",
+      "Cuela y guarda en una botella con cuentagotas."
+    ],
+    "dosis": "20 gotas en agua diariamente.",
+    "almacenamiento": "se conserva 1 año en un lugar fresco y oscuro.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "046",
+    "category": "Piel y Heridas",
+    "title": "Sérum “Renacer de Ojos”",
+    "description": "Un sérum ligero diseñado para reducir la hinchazón, las ojeras y la sequedad alrededor de los ojos. El pepino refrescante y el aloe se combinan con aceites nutritivos.",
+    "idealPara": "ojos hinchados, ojeras, piel cansada",
+    "tipo": "tópico (sérum)",
+    "cuandoUsarlo": "mañana y noche",
+    "precauciones": "solo para uso externo; evitar el contacto directo con los ojos",
+    "ingredientes": [
+      "2 cucharadas de gel de aloe vera",
+      "1 cucharada de zumo de pepino (colado)",
+      "1 cucharada de aceite de almendras dulces",
+      "3 gotas de aceite esencial de manzanilla"
+    ],
+    "instrucciones": [
+      "Combina el aloe y el zumo de pepino.",
+      "Incorpora el aceite de almendras y el aceite de manzanilla.",
+      "Mezcla bien y guarda en un frasco de vidrio con aplicador de bola."
+    ],
+    "dosis": "desliza suavemente bajo los ojos dos veces al día.",
+    "almacenamiento": "mantener refrigerado; dura 1 mes.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "047",
+    "category": "Piel y Heridas",
+    "title": "Ungüento antifúngico",
+    "description": "Un ungüento protector para combatir infecciones fúngicas de la piel. Hierbas antifúngicas potentes se combinan con aceites para calmar y sanar.",
+    "idealPara": "pie de atleta, tiña, erupciones fúngicas",
+    "tipo": "tópico (ungüento)",
+    "cuandoUsarlo": "aplicar dos veces al día hasta su resolución",
+    "precauciones": "solo para uso externo; suspender si aparece irritación",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de cera de abejas",
+      "10 gotas de aceite esencial de árbol de té",
+      "5 gotas de aceite esencial de orégano"
+    ],
+    "instrucciones": [
+      "Derrite los aceites y la cera de abejas al baño maría.",
+      "Incorpora los aceites esenciales.",
+      "Vierte en una lata pequeña y deja solidificar."
+    ],
+    "dosis": "aplicar en el área afectada dos veces al día.",
+    "almacenamiento": "guardar en lugar fresco; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "048",
+    "category": "Ojos y Oídos",
+    "title": "Compresa ocular calmante de manzanilla",
+    "description": "Una compresa calmante que reduce la fatiga visual, el enrojecimiento y la irritación. Las suaves propiedades antiinflamatorias de la manzanilla proporcionan un rápido alivio a los ojos cansados.",
+    "idealPara": "fatiga ocular, enrojecimiento, irritación",
+    "tipo": "externo (compresa)",
+    "cuandoUsarlo": "después de largas horas frente a pantallas o cuando haya fatiga visual",
+    "precauciones": "usar paño estéril; evitar si existe alergia a la manzanilla",
+    "ingredientes": [
+      "1 cucharada de flores secas de manzanilla",
+      "1 taza de agua caliente",
+      "Paño de algodón suave"
+    ],
+    "instrucciones": [
+      "Deja reposar la manzanilla en el agua caliente durante 10 minutos.",
+      "Cuela y deja que la infusión se enfríe hasta estar tibia.",
+      "Empapa el paño en el líquido y aplícalo sobre los ojos cerrados."
+    ],
+    "dosis": "usar durante 10–15 minutos, una o dos veces al día según necesidad.",
+    "almacenamiento": "preparar fresco cada vez.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "049",
+    "category": "Ojos y Oídos",
+    "title": "Almohadillas descongestionantes de pepino y té verde",
+    "description": "Almohadillas refrescantes que reducen la hinchazón y las ojeras bajo los ojos. El té verde, rico en antioxidantes, y el pepino calman y revitalizan la piel delicada.",
+    "idealPara": "ojos hinchados, ojeras, ojos cansados",
+    "tipo": "externo (almohadillas)",
+    "cuandoUsarlo": "por la mañana o antes de eventos",
+    "precauciones": "solo para uso externo; evitar el contacto directo con los ojos",
+    "ingredientes": [
+      "1 taza de té verde fuerte (preparado y enfriado)",
+      "½ pepino, triturado y colado",
+      "Almohadillas de algodón"
+    ],
+    "instrucciones": [
+      "Mezcla el té verde enfriado con el jugo de pepino.",
+      "Empapa las almohadillas de algodón en el líquido.",
+      "Refrigera las almohadillas durante 30 minutos antes de usar."
+    ],
+    "dosis": "aplicar sobre los ojos cerrados durante 10 minutos.",
+    "almacenamiento": "conservar las almohadillas empapadas en el frigorífico hasta 3 días.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "050",
+    "category": "Ojos y Oídos",
+    "title": "Roll on para el mareo",
+    "description": "Una mezcla portátil en roll-on que calma las náuseas y el mareo durante los viajes. Los aceites esenciales de menta y jengibre proporcionan alivio inmediato.",
+    "idealPara": "mareo por movimiento, náuseas, vértigo",
+    "tipo": "tópico (aceite en roll-on)",
+    "cuandoUsarlo": "antes o durante los viajes",
+    "precauciones": "solo para uso externo; evitar el contacto con los ojos",
+    "ingredientes": [
+      "2 cucharadas de aceite portador (jojoba o almendra)",
+      "5 gotas de aceite esencial de menta",
+      "5 gotas de aceite esencial de jengibre",
+      "3 gotas de aceite esencial de limón"
+    ],
+    "instrucciones": [
+      "Vierte el aceite portador en una botella roll-on.",
+      "Añade los aceites esenciales y mezcla suavemente.",
+      "Aplica en puntos de pulso y muñecas."
+    ],
+    "dosis": "aplicar en muñecas o sienes según necesidad durante el viaje.",
+    "almacenamiento": "conservar en botella de vidrio oscuro con roll-on; dura 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "051",
+    "category": "Ojos y Oídos",
+    "title": "Gotas oculares herbales para la claridad visual",
+    "description": "Gotas caseras suaves para refrescar y calmar los ojos cansados, reduciendo la sequedad y la irritación leve.",
+    "idealPara": "ojos secos, irritación leve, claridad visual",
+    "tipo": "tópico (gotas oculares)",
+    "cuandoUsarlo": "una o dos veces al día según necesidad",
+    "precauciones": "usar agua estéril; desechar si se enturbia; no usar en infecciones",
+    "ingredientes": [
+      "1 taza de agua destilada",
+      "1 cucharadita de hierba eyebright (Euphrasia)",
+      "½ cucharadita de flores de manzanilla"
+    ],
+    "instrucciones": [
+      "Hierve las hierbas en el agua destilada durante 10 minutos.",
+      "Cuela con una gasa estéril.",
+      "Deja enfriar completamente y transfiere a un frasco cuentagotas estéril."
+    ],
+    "dosis": "1–2 gotas por ojo, una o dos veces al día.",
+    "almacenamiento": "conservar refrigerado; usar en el plazo de 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "052",
+    "category": "Ojos y Oídos",
+    "title": "Néctar para la visión nocturna",
+    "description": "Una bebida rica en nutrientes que apoya la salud ocular y mejora la visión nocturna. Las zanahorias, los arándanos y las hierbas proporcionan protección antioxidante.",
+    "idealPara": "salud ocular, visión nocturna, apoyo antioxidante",
+    "tipo": "interno (bebida)",
+    "cuandoUsarlo": "a diario, preferiblemente con la cena",
+    "precauciones": "evitar ingesta excesiva en personas con problemas hepáticos (alto contenido en caroteno)",
+    "ingredientes": [
+      "1 zanahoria mediana, pelada",
+      "½ taza de arándanos",
+      "1 cucharadita de bayas de goji",
+      "1 cucharadita de polvo de arándano europeo (bilberry)",
+      "1 taza de agua"
+    ],
+    "instrucciones": [
+      "Mezcla todos los ingredientes hasta obtener una textura suave.",
+      "Cuela si prefieres una bebida más clara.",
+      "Sirve fría."
+    ],
+    "dosis": "1 vaso al día.",
+    "almacenamiento": "consumir preferiblemente fresco; refrigerar hasta 24 horas.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "053",
+    "category": "Ojos y Oídos",
+    "title": "Aceite de ajo y gordolobo para los oídos",
+    "description": "Un remedio tradicional para calmar el dolor de oídos y ablandar la cera. El ajo y el gordolobo aportan propiedades antimicrobianas y antiinflamatorias.",
+    "idealPara": "dolor de oídos, infecciones leves, acumulación de cera",
+    "tipo": "tópico (aceite para oídos)",
+    "cuandoUsarlo": "al inicio del malestar o una vez por semana para la cera",
+    "precauciones": "no usar si el tímpano está perforado o en caso de infección grave",
+    "ingredientes": [
+      "2 cucharadas de flores de gordolobo secas",
+      "1 diente de ajo triturado",
+      "½ taza de aceite de oliva"
+    ],
+    "instrucciones": [
+      "Coloca el gordolobo y el ajo en el aceite de oliva al baño maría.",
+      "Calienta suavemente durante 30 minutos (a baja temperatura).",
+      "Cuela y guarda en una botella con cuentagotas."
+    ],
+    "dosis": "2–3 gotas en el oído, una o dos veces al día.",
+    "almacenamiento": "mantener refrigerado; dura 2 semanas.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "054",
+    "category": "Ojos y Oídos",
+    "title": "Aceite calmante para el zumbido",
+    "description": "Una mezcla de aceites calmante aplicada tópicamente alrededor del oído para aliviar el zumbido y los síntomas de tinnitus.",
+    "idealPara": "tinnitus, zumbido de oídos, molestias auriculares",
+    "tipo": "tópico (aceite)",
+    "cuandoUsarlo": "aplicar alrededor del oído externo cuando aparezcan los síntomas",
+    "precauciones": "solo para uso externo; no aplicar dentro del oído",
+    "ingredientes": [
+      "2 cucharadas de aceite de sésamo",
+      "5 gotas de aceite esencial de siempreviva (helichrysum)",
+      "5 gotas de aceite esencial de lavanda",
+      "3 gotas de aceite esencial de incienso"
+    ],
+    "instrucciones": [
+      "Combina los aceites en un pequeño frasco cuentagotas.",
+      "Mezcla suavemente agitándolo.",
+      "Aplica alrededor del oído con la yema de los dedos."
+    ],
+    "dosis": "usar unas gotas externamente una o dos veces al día.",
+    "almacenamiento": "guardar en lugar fresco y oscuro; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "055",
+    "category": "Ojos y Oídos",
+    "title": "Aceite para apoyo auditivo",
+    "description": "Un aceite nutritivo que favorece la circulación y la salud del oído, usado como aceite de masaje externo suave.",
+    "idealPara": "prevención de pérdida auditiva, circulación auricular, tensión en oídos",
+    "tipo": "tópico (aceite)",
+    "cuandoUsarlo": "masajear alrededor de los oídos una vez al día",
+    "precauciones": "no colocar dentro del canal auditivo",
+    "ingredientes": [
+      "2 cucharadas de aceite de oliva",
+      "5 gotas de aceite esencial de romero",
+      "5 gotas de aceite esencial de ciprés",
+      "3 gotas de aceite esencial de menta"
+    ],
+    "instrucciones": [
+      "Combina los aceites en un frasco de vidrio con cuentagotas.",
+      "Mezcla suavemente.",
+      "Masajea alrededor del oído externo y las sienes."
+    ],
+    "dosis": "usar unas gotas una vez al día.",
+    "almacenamiento": "guardar en vidrio oscuro; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "056",
+    "category": "Sistema Musculoesquelético",
+    "title": "Bálsamo de cúrcuma y jengibre para las articulaciones",
+    "description": "Un bálsamo cálido que reduce la rigidez y la inflamación en las articulaciones. La cúrcuma y el jengibre aportan alivio antiinflamatorio, mientras que la cera de abejas y los aceites facilitan una aplicación calmante.",
+    "idealPara": "dolor articular, rigidez, inflamación",
+    "tipo": "tópico (bálsamo)",
+    "cuandoUsarlo": "al inicio del dolor articular o a diario para la rigidez",
+    "precauciones": "solo para uso externo; puede manchar la ropa o la piel",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "1 cucharada de cera de abejas",
+      "1 cucharadita de cúrcuma en polvo",
+      "1 cucharadita de jengibre en polvo",
+      "5 gotas de aceite esencial de pimienta negra"
+    ],
+    "instrucciones": [
+      "Derrite el aceite de coco y la cera de abejas al baño maría.",
+      "Incorpora la cúrcuma, el jengibre y el aceite de pimienta negra.",
+      "Vierte en una latita pequeña y deja enfriar."
+    ],
+    "dosis": "aplicar en las articulaciones 1–2 veces al día.",
+    "almacenamiento": "guardar en lugar fresco; dura 2–3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "057",
+    "category": "Sistema Musculoesquelético",
+    "title": "Crema refrescante para aliviar músculos",
+    "description": "Una crema calmante que refresca los músculos doloridos tras el esfuerzo. La menta y el eucalipto reducen el dolor y la inflamación mientras el aloe calma el tejido.",
+    "idealPara": "dolores musculares, dolor post-ejercicio, tensión",
+    "tipo": "tópico (crema)",
+    "cuandoUsarlo": "después de la actividad física o cuando se exacerben los músculos doloridos",
+    "precauciones": "solo para uso externo; evitar piel lesionada",
+    "ingredientes": [
+      "½ taza de gel de aloe vera",
+      "2 cucharadas de aceite de coco",
+      "10 gotas de aceite esencial de menta",
+      "10 gotas de aceite esencial de eucalipto",
+      "5 gotas de aceite esencial de romero"
+    ],
+    "instrucciones": [
+      "Mezcla el gel de aloe vera y el aceite de coco hasta que quede homogéneo.",
+      "Incorpora los aceites esenciales.",
+      "Transfiere a un frasco limpio."
+    ],
+    "dosis": "masajear una pequeña cantidad sobre los músculos doloridos hasta dos veces al día.",
+    "almacenamiento": "refrigerar; dura 1 mes.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "058",
+    "category": "Sistema Musculoesquelético",
+    "title": "Batido proteico natural",
+    "description": "Un batido nutritivo rico en proteína vegetal y minerales para apoyar la recuperación muscular y la fortaleza ósea.",
+    "idealPara": "recuperación muscular, salud ósea, apoyo proteico diario",
+    "tipo": "interno (batido)",
+    "cuandoUsarlo": "después del ejercicio o como desayuno diario",
+    "precauciones": "evitar si hay alergia a frutos secos o semillas",
+    "ingredientes": [
+      "1 plátano",
+      "1 cucharada de semillas de cáñamo",
+      "1 cucharada de mantequilla de almendra",
+      "1 taza de leche de almendra",
+      "1 cucharadita de cacao en polvo"
+    ],
+    "instrucciones": [
+      "Coloca todos los ingredientes en una licuadora.",
+      "Licúa hasta que quede suave y cremoso.",
+      "Vierte en un vaso y sirve frío."
+    ],
+    "dosis": "1 batido diario.",
+    "almacenamiento": "consumir preferiblemente fresco; refrigerar hasta 12 horas.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "059",
+    "category": "Sistema Musculoesquelético",
+    "title": "Aceite analgésico natural",
+    "description": "Una mezcla de aceite cálida que reduce la inflamación y el dolor en articulaciones y músculos.",
+    "idealPara": "dolor muscular, rigidez articular, tensión",
+    "tipo": "tópico (aceite de masaje)",
+    "cuandoUsarlo": "al inicio del dolor o antes de dormir para relajación",
+    "precauciones": "solo para uso externo; evitar durante el embarazo debido a aceites fuertes",
+    "ingredientes": [
+      "2 cucharadas de aceite de sésamo",
+      "5 gotas de aceite esencial de gaulteria (wintergreen)",
+      "5 gotas de aceite esencial de clavo",
+      "5 gotas de aceite esencial de jengibre"
+    ],
+    "instrucciones": [
+      "Combina los aceites en una botella cuentagotas oscura.",
+      "Agita suavemente para mezclar.",
+      "Masajea las zonas doloridas según sea necesario."
+    ],
+    "dosis": "usar 1 cucharadita de aceite por aplicación, hasta dos veces al día.",
+    "almacenamiento": "guardar en lugar fresco y oscuro; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "060",
+    "category": "Sistema Musculoesquelético",
+    "title": "Miel con colágeno analgésica",
+    "description": "Un remedio natural dulce que combina miel y colágeno para reducir la inflamación y apoyar el tejido conectivo.",
+    "idealPara": "rigidez articular, artritis, apoyo del tejido conectivo",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "a diario por la mañana",
+    "precauciones": "evitar si hay alergia a la miel o a suplementos de colágeno",
+    "ingredientes": [
+      "1 cucharada de miel cruda",
+      "1 cucharadita de colágeno en polvo",
+      "½ cucharadita de cúrcuma en polvo",
+      "Agua tibia para mezclar"
+    ],
+    "instrucciones": [
+      "Añade la miel, el colágeno y la cúrcuma a un vaso.",
+      "Incorpora agua tibia hasta disolver.",
+      "Bebe lentamente."
+    ],
+    "dosis": "1 vaso diario.",
+    "almacenamiento": "preparar fresco cada vez.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "061",
+    "category": "Sistema Musculoesquelético",
+    "title": "Baño de magnesio “Deep Soothe”",
+    "description": "Un baño rico en minerales que relaja los músculos, alivia calambres y favorece la recuperación. Las sales de magnesio proporcionan una relajación profunda.",
+    "idealPara": "calambres musculares, recuperación, relajación",
+    "tipo": "externo (baño)",
+    "cuandoUsarlo": "después de actividad intensa o a la hora de dormir",
+    "precauciones": "evitar si aparece irritación cutánea; no usar en heridas abiertas",
+    "ingredientes": [
+      "1 taza de sales de Epsom",
+      "½ taza de bicarbonato de sodio",
+      "10 gotas de aceite esencial de lavanda",
+      "5 gotas de aceite esencial de menta"
+    ],
+    "instrucciones": [
+      "Mezcla las sales de Epsom y el bicarbonato en un cuenco.",
+      "Incorpora los aceites esenciales.",
+      "Añade la mezcla al agua tibia del baño."
+    ],
+    "dosis": "remojar durante 20 minutos una o dos veces por semana.",
+    "almacenamiento": "guardar la mezcla seca en un frasco durante 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "062",
+    "category": "Sistema Musculoesquelético",
+    "title": "Tónico fortalecedor de huesos",
+    "description": "Una infusión herbal rica en minerales que favorece la densidad y la fortaleza ósea. La ortiga y la cola de caballo aportan calcio y sílice naturales.",
+    "idealPara": "huesos débiles, apoyo en osteoporosis, envejecimiento",
+    "tipo": "interno (tónico)",
+    "cuandoUsarlo": "a diario como parte de la rutina de salud ósea",
+    "precauciones": "evitar durante el embarazo o en problemas renales",
+    "ingredientes": [
+      "1 cucharada de hoja de ortiga seca",
+      "1 cucharadita de hierba cola de caballo",
+      "1 cucharadita de avena en verde (oatstraw)",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y cubre.",
+      "Deja reposar 15 minutos y luego cuela."
+    ],
+    "dosis": "beber 1 taza diaria.",
+    "almacenamiento": "consumir fresco; las hierbas secas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "063",
+    "category": "Sistema Musculoesquelético",
+    "title": "Té regenerador de cartílago",
+    "description": "Un té calmante que favorece la reparación del cartílago y la flexibilidad articular.",
+    "idealPara": "daño de cartílago, recuperación articular, rigidez",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "a diario, especialmente durante la recuperación",
+    "precauciones": "evitar durante el embarazo o con medicación fuerte para la artritis",
+    "ingredientes": [
+      "1 cucharadita de raíz de cúrcuma (seca o fresca)",
+      "1 cucharadita de raíz de jengibre",
+      "½ cucharadita de canela",
+      "1 cucharadita de colágeno en polvo",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Añade las hierbas al agua hirviendo y hierve a fuego lento 10 minutos.",
+      "Cuela en una taza.",
+      "Incorpora el colágeno en polvo antes de beber."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; conservar la mezcla seca 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "064",
+    "category": "Defensa Inmunitaria",
+    "title": "Elixir de refuerzo inmunitario",
+    "description": "Un potente elixir herbal diseñado para fortalecer las defensas naturales del cuerpo. Repleto de antioxidantes y hierbas que apoyan el sistema inmunitario, es perfecto para la resiliencia diaria.",
+    "idealPara": "inmunidad débil, resfriados estacionales, prevención",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "a diario durante la temporada de resfriados/gripe",
+    "precauciones": "evitar si estás embarazada o si tomas medicación inmunosupresora",
+    "ingredientes": [
+      "2 cucharadas de raíz de equinácea (seca, picada)",
+      "1 cucharada de bayas de saúco",
+      "1 cucharada de raíz de astrágalo",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un frasco de vidrio esterilizado.",
+      "Cubre completamente con alcohol.",
+      "Sella y guarda en un lugar oscuro durante 4 semanas, agitando con regularidad.",
+      "Cuela en una botella con cuentagotas."
+    ],
+    "dosis": "20–30 gotas en agua, una vez al día.",
+    "almacenamiento": "se conserva hasta 1 año en vidrio oscuro.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "065",
+    "category": "Defensa Inmunitaria",
+    "title": "Té de defensa antiviral",
+    "description": "Una mezcla calmante de hierbas antivirales que ayuda al cuerpo a combatir infecciones y a acortar los tiempos de recuperación.",
+    "idealPara": "infecciones virales, prevención durante brotes",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "ante los primeros signos de resfriado o gripe",
+    "precauciones": "evitar durante el embarazo; suspender si los síntomas persisten",
+    "ingredientes": [
+      "1 cucharada de bayas de saúco secas",
+      "1 cucharadita de raíz de equinácea",
+      "1 cucharadita de raíz de regaliz",
+      "1 cucharadita de raíz de jengibre seca",
+      "½ cucharadita de tomillo seco",
+      "2 tazas de agua",
+      "Miel y limón (opcional)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una olla con el agua.",
+      "Hierve a fuego lento durante 10 minutos.",
+      "Cuela en una taza.",
+      "Añade miel y limón si lo deseas."
+    ],
+    "dosis": "1 taza hasta dos veces al día.",
+    "almacenamiento": "beber fresco; las hierbas secas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "066",
+    "category": "Defensa Inmunitaria",
+    "title": "“Ancient Fire Cider”",
+    "description": "Un tónico inmunitario picante utilizado tradicionalmente para alejar los resfriados y mejorar la circulación.",
+    "idealPara": "prevención de resfriados, circulación, salud respiratoria",
+    "tipo": "interno (tónico)",
+    "cuandoUsarlo": "a diario durante la temporada de resfriados/gripe o ante los primeros signos de enfermedad",
+    "precauciones": "puede irritar estómagos sensibles; diluir si resulta demasiado fuerte",
+    "ingredientes": [
+      "1 taza de vinagre de sidra de manzana",
+      "2 cucharadas de raíz de rábano picante fresca (rallada)",
+      "1 cebolla (picada)",
+      "1 cabeza de ajo (machacada)",
+      "1 chile (en rodajas)",
+      "2 cucharadas de miel cruda"
+    ],
+    "instrucciones": [
+      "Coloca todos los ingredientes (excepto la miel) en un frasco de vidrio.",
+      "Cubre con vinagre de sidra de manzana y sella.",
+      "Guarda durante 4 semanas, agitando a diario.",
+      "Cuela y añade la miel."
+    ],
+    "dosis": "1 cucharada al día; diluir en agua si es necesario.",
+    "almacenamiento": "se conserva hasta 6 meses en refrigeración.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "067",
+    "category": "Defensa Inmunitaria",
+    "title": "Shot antiinflamatorio",
+    "description": "Un chupito concentrado que calma la inflamación y potencia la inmunidad, elaborado con raíces y especias con fuertes antioxidantes.",
+    "idealPara": "inflamación, refuerzo inmunitario, resfriados",
+    "tipo": "interno (chupito)",
+    "cuandoUsarlo": "por la mañana o al inicio de síntomas inflamatorios",
+    "precauciones": "evitar si el estómago es sensible a las especias",
+    "ingredientes": [
+      "1 cucharada de raíz de cúrcuma fresca (rallada)",
+      "1 cucharada de raíz de jengibre fresca (rallada)",
+      "Zumo de ½ limón",
+      "Pizca de pimienta negra"
+    ],
+    "instrucciones": [
+      "Extrae el jugo de la cúrcuma y el jengibre.",
+      "Mezcla con el zumo de limón y la pimienta negra.",
+      "Remueve y sirve en un vaso de chupito."
+    ],
+    "dosis": "1 chupito diario.",
+    "almacenamiento": "mejor fresco; refrigerar hasta 48 horas.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "068",
+    "category": "Defensa Inmunitaria",
+    "title": "Leche de cúrcuma",
+    "description": "Una bebida dorada y reconfortante conocida por sus propiedades antiinflamatorias y de apoyo inmunitario.",
+    "idealPara": "inflamación, apoyo inmunitario, relajación",
+    "tipo": "interno (bebida láctea)",
+    "cuandoUsarlo": "por la noche o durante resfriados",
+    "precauciones": "evitar uso excesivo con anticoagulantes",
+    "ingredientes": [
+      "1 taza de leche (de vaca o vegetal)",
+      "1 cucharadita de cúrcuma en polvo",
+      "½ cucharadita de jengibre en polvo",
+      "¼ cucharadita de canela",
+      "1 cucharadita de miel"
+    ],
+    "instrucciones": [
+      "Calienta la leche en un cazo.",
+      "Incorpora la cúrcuma, el jengibre y la canela.",
+      "Endulza con miel.",
+      "Sirve caliente."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "069",
+    "category": "Defensa Inmunitaria",
+    "title": "Té depurativo de apoyo inmunitario",
+    "description": "Un té herbal depurativo que apoya tanto la desintoxicación como la función inmunitaria.",
+    "idealPara": "apoyo detox, inmunidad lenta, recuperación tras enfermedad",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "a diario durante periodos de detox o recuperación",
+    "precauciones": "evitar durante el embarazo",
+    "ingredientes": [
+      "1 cucharadita de raíz de diente de león",
+      "1 cucharadita de raíz de bardana",
+      "1 cucharadita de hoja de ortiga",
+      "1 cucharadita de raíz de jengibre",
+      "2 tazas de agua"
+    ],
+    "instrucciones": [
+      "Hierve a fuego lento las raíces en el agua durante 10 minutos.",
+      "Añade la ortiga y deja reposar 5 minutos más.",
+      "Cuela en una taza."
+    ],
+    "dosis": "1–2 tazas diarias.",
+    "almacenamiento": "beber fresco; la mezcla seca dura 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "070",
+    "category": "Defensa Inmunitaria",
+    "title": "Té activador de células T",
+    "description": "Una mezcla revitalizante destinada a estimular la respuesta inmunitaria apoyando los glóbulos blancos.",
+    "idealPara": "inmunidad débil, infecciones frecuentes",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "a diario durante las estaciones propensas a enfermedades",
+    "precauciones": "evitar si se toma medicación inmunosupresora",
+    "ingredientes": [
+      "1 cucharadita de raíz de astrágalo",
+      "1 cucharadita de equinácea",
+      "½ cucharadita de raíz de regaliz",
+      "½ cucharadita de raíz de jengibre",
+      "2 tazas de agua"
+    ],
+    "instrucciones": [
+      "Coloca todas las hierbas en una tetera.",
+      "Vierte agua hirviendo y deja reposar 15 minutos.",
+      "Cuela y sirve."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "beber fresco; las hierbas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "071",
+    "category": "Defensa Inmunitaria",
+    "title": "Té de apoyo para autoinmunidad",
+    "description": "Un té suave formulado para equilibrar el sistema inmunitario sin sobreestimularlo.",
+    "idealPara": "condiciones autoinmunes, equilibrio de la inmunidad",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "a diario como apoyo a largo plazo",
+    "precauciones": "consultar a un profesional para problemas autoinmunes crónicos",
+    "ingredientes": [
+      "1 cucharadita de raíz de ashwagandha",
+      "1 cucharadita de albahaca sagrada (tulsi)",
+      "1 cucharadita de raíz de regaliz",
+      "2 tazas de agua"
+    ],
+    "instrucciones": [
+      "Hierve a fuego lento la ashwagandha y el regaliz en el agua durante 10 minutos.",
+      "Añade el tulsi y deja reposar 5 minutos más.",
+      "Cuela en una taza."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; las hierbas secas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "072",
+    "category": "Cuidado Bucal",
+    "title": "Aceite para aliviar el dolor de muelas",
+    "description": "Una mezcla concentrada de aceites elaborada para proporcionar alivio rápido ante un dolor dental agudo. El clavo adormece suavemente la zona, la menta refresca y el árbol de té ayuda a limpiar y reducir la irritación.",
+    "idealPara": "dolor de muelas, encías inflamadas",
+    "tipo": "tópico (aceite)",
+    "cuandoUsarlo": "al inicio del dolor dental",
+    "precauciones": "solo para uso externo; evitar tragar",
+    "ingredientes": [
+      "2 cucharadas de aceite de clavo (aceite portador diluido)",
+      "5 gotas de aceite esencial de menta",
+      "3 gotas de aceite esencial de árbol de té"
+    ],
+    "instrucciones": [
+      "Combina los aceites en una botella cuentagotas de vidrio oscuro.",
+      "Mezcla suavemente agitando.",
+      "Aplica una gota en un bastoncillo de algodón y colócala sobre el diente dolorido."
+    ],
+    "dosis": "aplicar hasta 3 veces al día según necesidad.",
+    "almacenamiento": "guardar en lugar fresco y oscuro; dura 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "073",
+    "category": "Cuidado Bucal",
+    "title": "Enjuague para la salud de las encías",
+    "description": "Un enjuague calmante que fortalece las encías, reduce la hinchazón y mantiene la boca fresca. La salvia y la mirra se combinan con menta para mejorar la circulación oral.",
+    "idealPara": "salud de las encías, sangrado, sensibilidad",
+    "tipo": "enjuague bucal",
+    "cuandoUsarlo": "después del cepillado",
+    "precauciones": "no tragar; escupir después de usar",
+    "ingredientes": [
+      "1 taza de agua",
+      "1 cucharadita de hojas de salvia secas",
+      "1 cucharadita de polvo de mirra",
+      "3 gotas de aceite esencial de menta"
+    ],
+    "instrucciones": [
+      "Hierve la salvia en el agua durante 10 minutos.",
+      "Cuela y deja enfriar.",
+      "Añade la mirra y el aceite de menta."
+    ],
+    "dosis": "enjuagar 2 cucharadas en la boca durante 30 segundos, dos veces al día.",
+    "almacenamiento": "refrigerar; dura hasta 5 días.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "074",
+    "category": "Cuidado Bucal",
+    "title": "Enjuague bucal natural",
+    "description": "Un enjuague casero refrescante que neutraliza los olores y deja la boca limpia. El bicarbonato equilibra el pH mientras la menta y el árbol de té combaten las bacterias.",
+    "idealPara": "mal aliento, higiene bucal diaria",
+    "tipo": "enjuague bucal",
+    "cuandoUsarlo": "después del cepillado o las comidas",
+    "precauciones": "no tragar; no apto para niños menores de 6 años",
+    "ingredientes": [
+      "1 taza de agua destilada",
+      "1 cucharadita de bicarbonato de sodio",
+      "5 gotas de aceite esencial de menta",
+      "3 gotas de aceite esencial de árbol de té"
+    ],
+    "instrucciones": [
+      "Mezcla todos los ingredientes en una botella de vidrio limpia.",
+      "Agita suavemente antes de cada uso."
+    ],
+    "dosis": "enjuagar 1–2 cucharadas en la boca durante 30 segundos, hasta dos veces al día.",
+    "almacenamiento": "refrigerar; dura hasta 7 días.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "075",
+    "category": "Cuidado Bucal",
+    "title": "Bálsamo labial herbal",
+    "description": "Un bálsamo herbal nutritivo que calma los labios agrietados y protege contra la sequedad. Los aceites infusionados se combinan con cera de abejas para proporcionar suavidad duradera.",
+    "idealPara": "labios secos o agrietados",
+    "tipo": "tópico (bálsamo)",
+    "cuandoUsarlo": "según necesidad a lo largo del día",
+    "precauciones": "solo para uso externo",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "1 cucharada de cera de abejas",
+      "1 cucharada de aceite infusionado con caléndula",
+      "5 gotas de aceite esencial de lavanda"
+    ],
+    "instrucciones": [
+      "Derrite el aceite de coco y la cera de abejas juntos.",
+      "Añade el aceite de caléndula y el de lavanda.",
+      "Vierte en tubos pequeños para bálsamo labial y deja enfriar."
+    ],
+    "dosis": "aplicar directamente en los labios según sea necesario.",
+    "almacenamiento": "conservar en lugar fresco; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "076",
+    "category": "Cuidado Bucal",
+    "title": "Pasta blanqueadora herbal",
+    "description": "Una pasta natural que pule suavemente los dientes y reduce las manchas superficiales. El bicarbonato y la arcilla limpian mientras la cúrcuma favorece el blanqueamiento.",
+    "idealPara": "dientes manchados, esmalte opaco",
+    "tipo": "tópico (pasta tipo dentífrico)",
+    "cuandoUsarlo": "cepillarse 2–3 veces por semana",
+    "precauciones": "evitar el uso excesivo para proteger el esmalte",
+    "ingredientes": [
+      "2 cucharadas de bicarbonato de sodio",
+      "1 cucharada de arcilla bentonita",
+      "1 cucharadita de cúrcuma en polvo",
+      "5 gotas de aceite de menta"
+    ],
+    "instrucciones": [
+      "Mezcla los ingredientes hasta obtener una pasta homogénea.",
+      "Guarda en un pequeño frasco de vidrio."
+    ],
+    "dosis": "cepillar suavemente con una cantidad del tamaño de un guisante.",
+    "almacenamiento": "dura hasta 1 mes.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "077",
+    "category": "Cuidado Bucal",
+    "title": "Dentífrico herbal",
+    "description": "Una pasta herbal de uso diario que mantiene los dientes limpios y las encías fuertes. Los abrasivos suaves se combinan con salvia y menta para una frescura duradera.",
+    "idealPara": "higiene oral diaria, prevención de placa",
+    "tipo": "tópico (pasta de dientes)",
+    "cuandoUsarlo": "cepillarse dos veces al día",
+    "precauciones": "seguro para adultos; supervisar a los niños",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "1 cucharada de bicarbonato de sodio",
+      "1 cucharada de arcilla bentonita",
+      "1 cucharadita de salvia en polvo",
+      "5 gotas de aceite esencial de menta"
+    ],
+    "instrucciones": [
+      "Mezcla todos los ingredientes hasta que quede una pasta uniforme.",
+      "Guarda en un frasco hermético pequeño."
+    ],
+    "dosis": "usar una cantidad del tamaño de un guisante dos veces al día.",
+    "almacenamiento": "dura hasta 1 mes.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "078",
+    "category": "Cuidado Bucal",
+    "title": "Aceite para herpes labial",
+    "description": "Un aceite focalizado para calmar los herpes labiales, aliviar la irritación y acelerar la curación. El toronjil (lemon balm) y el árbol de té aportan acción antiviral y limpiadora.",
+    "idealPara": "herpes labial, brotes de herpes en los labios",
+    "tipo": "tópico (aceite)",
+    "cuandoUsarlo": "al primer signo de hormigueo o brote",
+    "precauciones": "solo para uso externo",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "10 gotas de aceite esencial de toronjil (lemon balm)",
+      "5 gotas de aceite esencial de árbol de té"
+    ],
+    "instrucciones": [
+      "Mezcla los aceites en una botella de vidrio oscuro.",
+      "Aplica una gota directamente sobre el herpes labial."
+    ],
+    "dosis": "aplicar 2–3 veces al día hasta que desaparezca.",
+    "almacenamiento": "guardar en lugar fresco y oscuro; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "079",
+    "category": "Cuidado Bucal",
+    "title": "Mezcla para enjuague de aceite",
+    "description": "Una práctica ayurvédica ancestral que ayuda a eliminar toxinas, reducir bacterias y fortalecer las encías. Deja la boca más fresca y los dientes más brillantes.",
+    "idealPara": "desintoxicación oral, salud de las encías, aliento fresco",
+    "tipo": "interno (enjuague con aceite)",
+    "cuandoUsarlo": "por la mañana antes de comer o beber",
+    "precauciones": "no tragar; escupir después de usar",
+    "ingredientes": [
+      "½ taza de aceite de coco",
+      "1 cucharada de aceite de sésamo",
+      "5 gotas de aceite esencial de clavo"
+    ],
+    "instrucciones": [
+      "Mezcla los aceites en un frasco de vidrio limpio.",
+      "Remueve bien antes de usar."
+    ],
+    "dosis": "enjuagar 1 cucharada en la boca durante 10–15 minutos, luego escupir.",
+    "almacenamiento": "mantener cerrado a temperatura ambiente; dura 2– 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "080",
+    "category": "Sistema Endocrino",
+    "title": "Té estimulante de estrógeno con raíz y rosa",
+    "description": "Un té suave y equilibrante que apoya los niveles de estrógeno gracias a hierbas ricas en fitoestrógenos. Los pétalos de rosa aportan un aroma calmante mientras las raíces fortalecen los ciclos hormonales.",
+    "idealPara": "bajo nivel de estrógeno, equilibrio menstrual, apoyo en la perimenopausia",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente durante desequilibrios hormonales o perimenopausia",
+    "precauciones": "evitar durante el embarazo o si existen condiciones sensibles al estrógeno",
+    "ingredientes": [
+      "1 cucharadita de raíz de dong quai",
+      "1 cucharadita de flores de trébol rojo",
+      "½ cucharadita de raíz de regaliz",
+      "1 cucharadita de pétalos de rosa secos",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Añadir las hierbas a una tetera.",
+      "Verter el agua hirviendo sobre ellas y tapar.",
+      "Dejar reposar 12–15 minutos y colar."
+    ],
+    "dosis": "1 taza al día.",
+    "almacenamiento": "preparar fresco; las hierbas secas duran 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "081",
+    "category": "Sistema Endocrino",
+    "title": "Elixir menstrual ciclo salvaje",
+    "description": "Un elixir herbal que alivia los cólicos, equilibra el estado de ánimo y restaura la energía durante el ciclo menstrual.",
+    "idealPara": "cólicos menstruales, síndrome premenstrual (PMS), baja energía",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "diariamente durante el ciclo menstrual o los días de PMS",
+    "precauciones": "evitar durante el embarazo; consultar si se sigue terapia hormonal",
+    "ingredientes": [
+      "1 cucharada de corteza de viburno (cramp bark)",
+      "1 cucharada de hierba de leonera (motherwort)",
+      "1 cucharada de hoja de frambuesa",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un frasco esterilizado.",
+      "Cubre con el alcohol y sella.",
+      "Guarda durante 4 semanas, agitando con frecuencia.",
+      "Cuela en una botella con cuentagotas."
+    ],
+    "dosis": "20–30 gotas en agua, hasta dos veces al día.",
+    "almacenamiento": "se conserva 1 año en vidrio oscuro.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "082",
+    "category": "Sistema Endocrino",
+    "title": "Bolitas adaptógenas para la armonía hormonal",
+    "description": "Bocaditos nutritivos cargados de adaptógenos que reducen el estrés y equilibran las hormonas. Perfectos para la energía diaria y la salud endocrina.",
+    "idealPara": "estrés, fatiga suprarrenal, desequilibrio hormonal",
+    "tipo": "interno (snack)",
+    "cuandoUsarlo": "diariamente como apoyo energético y hormonal",
+    "precauciones": "evitar el exceso si estás embarazada o padeces enfermedades autoinmunes",
+    "ingredientes": [
+      "1 taza de dátiles",
+      "½ taza de almendras",
+      "2 cucharadas de polvo de maca",
+      "1 cucharada de polvo de ashwagandha",
+      "1 cucharada de cacao en polvo"
+    ],
+    "instrucciones": [
+      "Mezcla todos los ingredientes hasta obtener una masa pegajosa.",
+      "Forma bolitas pequeñas.",
+      "Refrigera 30 minutos antes de servir."
+    ],
+    "dosis": "1–2 bolitas al día.",
+    "almacenamiento": "refrigerar; dura 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "083",
+    "category": "Sistema Endocrino",
+    "title": "Mezcla de apoyo a la testosterona",
+    "description": "Una mezcla herbal cálida que estimula naturalmente la testosterona, la energía y la vitalidad.",
+    "idealPara": "baja testosterona, fatiga, salud hormonal masculina",
+    "tipo": "interno (té/tónico)",
+    "cuandoUsarlo": "diariamente para hombres que buscan energía y apoyo hormonal",
+    "precauciones": "no usar en casos de problemas prostáticos; evitar si se toma medicación sin supervisión médica",
+    "ingredientes": [
+      "1 cucharadita de tribulus terrestris",
+      "1 cucharadita de raíz de ashwagandha",
+      "½ cucharadita de raíz de ginseng",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Cubre con el agua hirviendo y deja reposar 10 minutos.",
+      "Cuela antes de servir."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; las hierbas secas duran 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "084",
+    "category": "Sistema Endocrino",
+    "title": "Elixir activador de tiroides",
+    "description": "Una bebida energizante diseñada para estimular la actividad tiroidea, mejorar el metabolismo y reducir la lentitud.",
+    "idealPara": "función tiroidea baja, fatiga, metabolismo lento",
+    "tipo": "interno (elixir/tónico)",
+    "cuandoUsarlo": "por la mañana en ayunas",
+    "precauciones": "evitar si se padece hipertiroidismo o se toma medicación tiroidea sin supervisión",
+    "ingredientes": [
+      "Zumo de ½ limón",
+      "½ cucharadita de polvo de maca",
+      "½ cucharadita de polvo de ashwagandha",
+      "1 cucharadita de miel cruda",
+      "1 taza de agua tibia"
+    ],
+    "instrucciones": [
+      "Mezcla el zumo de limón, la maca y la ashwagandha en el agua tibia.",
+      "Añade la miel hasta disolver.",
+      "Bebe inmediatamente."
+    ],
+    "dosis": "1 taza cada mañana.",
+    "almacenamiento": "preparar fresco cada vez.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "085",
+    "category": "Sistema Endocrino",
+    "title": "Té de apoyo para el ciclo con SOP",
+    "description": "Un té calmante que ayuda a regular los ciclos, reducir los cólicos y equilibrar las hormonas en personas con síndrome de ovario poliquístico (SOP).",
+    "idealPara": "ciclos irregulares, síntomas de SOP, calambres",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente durante 3 meses o más",
+    "precauciones": "evitar durante el embarazo; consultar a un profesional si se está en tratamiento de fertilidad",
+    "ingredientes": [
+      "1 cucharadita de hoja de hierbabuena",
+      "1 cucharadita de corteza de canela",
+      "1 cucharadita de raíz de regaliz",
+      "1 cucharadita de hoja de frambuesa roja",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y cubre.",
+      "Deja reposar 12–15 minutos y cuela antes de servir."
+    ],
+    "dosis": "1–2 tazas diarias.",
+    "almacenamiento": "preparar fresco; la mezcla seca dura 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "086",
+    "category": "Sistema Endocrino",
+    "title": "Té susurrador de insulina",
+    "description": "Un té equilibrante que ayuda a regular el azúcar en sangre y mejora la sensibilidad a la insulina de forma natural.",
+    "idealPara": "glucosa alta, equilibrio metabólico, apoyo en diabetes",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente antes o después de las comidas",
+    "precauciones": "evitar si se toman medicamentos fuertes para la diabetes sin supervisión médica",
+    "ingredientes": [
+      "1 cucharadita de corteza de canela",
+      "1 cucharadita de semillas de fenogreco",
+      "1 cucharadita de gymnema sylvestre",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo sobre ellas.",
+      "Deja reposar 15 minutos y cuela."
+    ],
+    "dosis": "1 taza diaria con las comidas.",
+    "almacenamiento": "consumir fresco; las hierbas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "087",
+    "category": "Sistema Endocrino",
+    "title": "Batido restaurador endocrino",
+    "description": "Un batido rico en nutrientes que restaura la energía, reduce el estrés y favorece el equilibrio hormonal general.",
+    "idealPara": "fatiga, apoyo suprarrenal, equilibrio endocrino",
+    "tipo": "interno (batido)",
+    "cuandoUsarlo": "por la mañana o como merienda de la tarde",
+    "precauciones": "evitar si se es alérgico a los frutos secos o a las hierbas adaptógenas",
+    "ingredientes": [
+      "1 plátano",
+      "½ taza de arándanos",
+      "1 cucharada de semillas de chía",
+      "1 cucharada de polvo de maca",
+      "1 taza de leche de almendras"
+    ],
+    "instrucciones": [
+      "Añade todos los ingredientes a la licuadora.",
+      "Mezcla hasta obtener una textura suave.",
+      "Sirve frío."
+    ],
+    "dosis": "1 batido diario.",
+    "almacenamiento": "mejor fresco; refrigerar hasta 12 horas.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "088",
+    "category": "Salud Reproductiva",
+    "title": "Té mágico del ciclo lunar",
+    "description": "Un té herbal calmante que equilibra las hormonas, alivia los cólicos y favorece el bienestar emocional a lo largo del ciclo menstrual.",
+    "idealPara": "síndrome premenstrual (PMS), cólicos, cambios de humor, ciclos irregulares",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente durante el PMS o los días de menstruación",
+    "precauciones": "evitar durante el embarazo; consultar si se toman medicamentos hormonales",
+    "ingredientes": [
+      "1 cucharadita de hoja de frambuesa",
+      "1 cucharadita de flores de manzanilla",
+      "½ cucharadita de raíz de jengibre",
+      "½ cucharadita de corteza de canela",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo, tapa y deja reposar 12 minutos.",
+      "Cuela y sirve caliente."
+    ],
+    "dosis": "1 taza diaria durante el ciclo.",
+    "almacenamiento": "preparar fresco; las hierbas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "089",
+    "category": "Salud Reproductiva",
+    "title": "Aceite de masaje Deseo enraizado",
+    "description": "Un aceite de masaje cálido que mejora la intimidad y la circulación. El jengibre y la canela se combinan con la rosa para aportar un impulso sensual.",
+    "idealPara": "baja libido, apoyo a la intimidad, relajación",
+    "tipo": "tópico (aceite de masaje)",
+    "cuandoUsarlo": "antes de la intimidad o como masaje relajante",
+    "precauciones": "solo para uso externo; evitar el contacto con mucosas sensibles",
+    "ingredientes": [
+      "2 cucharadas de aceite de almendras",
+      "5 gotas de aceite esencial de jengibre",
+      "5 gotas de aceite esencial de canela",
+      "3 gotas de aceite esencial de rosa"
+    ],
+    "instrucciones": [
+      "Mezcla todos los aceites en una botella de vidrio limpia.",
+      "Agita suavemente antes de usar.",
+      "Calienta una pequeña cantidad entre las manos y masajea."
+    ],
+    "dosis": "usar 1 cucharadita por masaje.",
+    "almacenamiento": "conservar en vidrio oscuro; dura 3 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "090",
+    "category": "Salud Reproductiva",
+    "title": "Jarabe natural de la vitalidad",
+    "description": "Un jarabe natural de vitalidad que mejora la circulación, la energía y el deseo. La granada y el ginseng se combinan para crear un potente tónico.",
+    "idealPara": "baja libido, fatiga, apoyo circulatorio",
+    "tipo": "interno (jarabe)",
+    "cuandoUsarlo": "diariamente o 1 hora antes de la intimidad",
+    "precauciones": "evitar en caso de hipertensión o si se toman medicamentos para el corazón",
+    "ingredientes": [
+      "1 taza de zumo de granada",
+      "1 cucharada de raíz de ginseng en polvo",
+      "1 cucharada de polvo de maca",
+      "2 cucharadas de miel cruda"
+    ],
+    "instrucciones": [
+      "Calienta suavemente el zumo en un cazo.",
+      "Añade los polvos y remueve hasta disolver.",
+      "Incorpora la miel y mezcla bien.",
+      "Guarda en una botella de vidrio."
+    ],
+    "dosis": "1–2 cucharadas al día.",
+    "almacenamiento": "refrigerar; dura 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "091",
+    "category": "Salud Reproductiva",
+    "title": "Jarabe libido lunar salvaje",
+    "description": "Un jarabe herbal elaborado para despertar el deseo y equilibrar las hormonas, especialmente en mujeres. La maca, la damiana y la canela aportan calidez y energía.",
+    "idealPara": "baja libido, desequilibrio hormonal, impulso energético",
+    "tipo": "interno (jarabe)",
+    "cuandoUsarlo": "diariamente o antes de la intimidad",
+    "precauciones": "evitar durante el embarazo; consultar si se toma terapia hormonal",
+    "ingredientes": [
+      "1 taza de agua",
+      "1 cucharada de hojas de damiana",
+      "1 cucharada de raíz de maca en polvo",
+      "1 cucharadita de canela",
+      "2 cucharadas de miel"
+    ],
+    "instrucciones": [
+      "Hierve las hojas de damiana en el agua durante 10 minutos.",
+      "Cuela y añade la maca, la canela y la miel.",
+      "Guarda en una botella de vidrio."
+    ],
+    "dosis": "1 cucharada diaria.",
+    "almacenamiento": "refrigerar; dura 5 días.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "092",
+    "category": "Salud Reproductiva",
+    "title": "Té de fertilidad",
+    "description": "Una mezcla de té nutritiva diseñada para apoyar la fertilidad, regular los ciclos y fortalecer el útero.",
+    "idealPara": "apoyo a la fertilidad, regulación del ciclo, salud uterina",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente mientras se prepara para la concepción",
+    "precauciones": "evitar durante el embarazo sin supervisión profesional",
+    "ingredientes": [
+      "1 cucharadita de flores de trébol rojo",
+      "1 cucharadita de hoja de ortiga",
+      "1 cucharadita de hoja de frambuesa",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Añade las hierbas a una tetera.",
+      "Vierte el agua hirviendo y tapa.",
+      "Deja reposar 12 minutos y cuela."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; la mezcla seca dura 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "093",
+    "category": "Salud Reproductiva",
+    "title": "Té tónico uterino Sabiduría del útero",
+    "description": "Un té restaurador que tonifica el útero, reduce los cólicos y promueve ciclos saludables.",
+    "idealPara": "cólicos menstruales, salud uterina, sangrados irregulares",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "durante el PMS, los cólicos o para apoyar el ciclo",
+    "precauciones": "evitar durante el embarazo o en casos de sangrado abundante",
+    "ingredientes": [
+      "1 cucharadita de corteza de viburno (cramp bark)",
+      "1 cucharadita de hierba de leonera (motherwort)",
+      "1 cucharadita de hoja de frambuesa",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y deja reposar 15 minutos.",
+      "Cuela antes de servir."
+    ],
+    "dosis": "1 taza diaria según necesidad.",
+    "almacenamiento": "preparar fresco; las hierbas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "094",
+    "category": "Salud Reproductiva",
+    "title": "Té potenciador de la libido masculina",
+    "description": "Un té estimulante que mejora la libido, la circulación y la resistencia. El ginseng, la maca y la canela aportan calor y vigor.",
+    "idealPara": "libido masculina, energía, circulación",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente o antes de la intimidad",
+    "precauciones": "evitar en casos de hipertensión o enfermedades cardíacas",
+    "ingredientes": [
+      "1 cucharadita de raíz de ginseng",
+      "1 cucharadita de raíz de maca en polvo",
+      "½ cucharadita de corteza de canela",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y deja reposar 12 minutos.",
+      "Cuela antes de servir."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; las hierbas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "095",
+    "category": "Salud Reproductiva",
+    "title": "Caldo restaurador posparto",
+    "description": "Un caldo profundamente nutritivo que restaura la energía, reconstruye la fuerza y equilibra las hormonas después del parto.",
+    "idealPara": "recuperación posparto, fatiga, apoyo nutricional",
+    "tipo": "interno (caldo)",
+    "cuandoUsarlo": "diariamente durante las semanas posteriores al parto",
+    "precauciones": "usar solo hierbas suaves; consultar si se amamanta con sensibilidad",
+    "ingredientes": [
+      "1 taza de caldo de pollo o vegetal",
+      "1 cucharada de hoja de ortiga",
+      "1 cucharada de raíz de ashwagandha",
+      "½ cucharadita de cúrcuma en polvo"
+    ],
+    "instrucciones": [
+      "Calienta el caldo en un cazo.",
+      "Añade las hierbas y hierve a fuego lento durante 10 minutos.",
+      "Cuela antes de servir caliente."
+    ],
+    "dosis": "1 taza diaria en el posparto.",
+    "almacenamiento": "refrigerar el caldo; dura 2 días.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "096",
+    "category": "Sistema Urinario y Renal",
+    "title": "Té ablandador de piedras",
+    "description": "Un té herbal calmante que ayuda a suavizar los cálculos renales y reducir las molestias. El limón y las hierbas relajantes favorecen el flujo urinario y alivian la tensión.",
+    "idealPara": "cálculos renales, molestias urinarias, prevención",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "al primer signo de dolor por cálculos o de forma preventiva",
+    "precauciones": "no sustituye tratamiento médico; acudir al médico si el dolor es intenso",
+    "ingredientes": [
+      "1 cucharadita de raíz de hortensia (hydrangea root)",
+      "1 cucharadita de raíz de malvavisco (marshmallow root)",
+      "1 cucharadita de toronjil (lemon balm)",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Añade las hierbas a una tetera.",
+      "Vierte el agua hirviendo y deja reposar 15 minutos.",
+      "Cuela antes de servir caliente."
+    ],
+    "dosis": "1 taza dos veces al día.",
+    "almacenamiento": "preparar fresco; las hierbas secas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "097",
+    "category": "Sistema Urinario y Renal",
+    "title": "Latté depurativo linfático y renal",
+    "description": "Un latté cálido que estimula el drenaje linfático y la función renal. Las especias y raíces se combinan para favorecer una desintoxicación suave y mejorar la circulación.",
+    "idealPara": "riñones lentos, retención de líquidos, congestión linfática",
+    "tipo": "interno (latté)",
+    "cuandoUsarlo": "por la mañana o como estimulante vespertino",
+    "precauciones": "evitar en enfermedad renal salvo supervisión profesional",
+    "ingredientes": [
+      "1 taza de leche de almendras (o leche animal)",
+      "1 cucharadita de cúrcuma en polvo",
+      "½ cucharadita de jengibre en polvo",
+      "½ cucharadita de cardamomo",
+      "1 cucharadita de miel cruda"
+    ],
+    "instrucciones": [
+      "Calienta la leche en un cazo.",
+      "Añade la cúrcuma, el jengibre y el cardamomo.",
+      "Endulza con miel y sirve caliente."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "098",
+    "category": "Sistema Urinario y Renal",
+    "title": "Compresa calmante para cistitis",
+    "description": "Una compresa tibia que alivia el dolor y el escozor asociados a la cistitis. La manzanilla y la caléndula reducen la inflamación y aportan confort.",
+    "idealPara": "escozor urinario, dolor de cistitis, tensión pélvica",
+    "tipo": "externo (compresa)",
+    "cuandoUsarlo": "al inicio del dolor vesical o durante los brotes",
+    "precauciones": "solo uso externo; no aplicar sobre heridas abiertas",
+    "ingredientes": [
+      "2 cucharadas de flores de manzanilla",
+      "2 cucharadas de pétalos de caléndula",
+      "2 tazas de agua caliente",
+      "Paño de algodón suave"
+    ],
+    "instrucciones": [
+      "Infusiona la manzanilla y la caléndula en agua caliente durante 10 minutos.",
+      "Cuela y deja enfriar hasta temperatura tibia y segura.",
+      "Empapa el paño y aplícalo sobre el abdomen inferior."
+    ],
+    "dosis": "aplicar durante 15 minutos, hasta dos veces al día.",
+    "almacenamiento": "preparar la infusión fresca cada vez.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "099",
+    "category": "Sistema Urinario y Renal",
+    "title": "Té limpiador renal",
+    "description": "Un té depurativo que elimina el exceso de líquidos y favorece la función renal saludable.",
+    "idealPara": "retención de líquidos, riñones lentos, apoyo detox",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente durante períodos de limpieza",
+    "precauciones": "evitar en enfermedad renal grave salvo indicación profesional",
+    "ingredientes": [
+      "1 cucharadita de raíz de diente de león",
+      "1 cucharadita de hoja de perejil",
+      "1 cucharadita de hoja de ortiga",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y tapa.",
+      "Deja reposar 12 minutos y cuela."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; las hierbas secas duran 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "100",
+    "category": "Sistema Urinario y Renal",
+    "title": "Té para vejiga resiliente",
+    "description": "Un té de apoyo que fortalece la vejiga, alivia la urgencia y reduce la irritación.",
+    "idealPara": "vejiga hiperactiva, urgencia, irritación",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente para mantener la salud y el confort urinario",
+    "precauciones": "evitar en incontinencia grave o durante el embarazo sin consejo profesional",
+    "ingredientes": [
+      "1 cucharadita de cabellera de maíz (corn silk)",
+      "1 cucharadita de cola de caballo (horsetail herb)",
+      "½ cucharadita de raíz de regaliz",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Añade las hierbas a una tetera.",
+      "Vierte el agua hirviendo y deja reposar 12 minutos.",
+      "Cuela antes de servir."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; las hierbas secas duran 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "101",
+    "category": "Sistema Urinario y Renal",
+    "title": "Té depurativo de arándano y rosa",
+    "description": "Un té refrescante que ayuda a eliminar bacterias del tracto urinario y calma la irritación. El arándano se combina con la rosa para aportar limpieza y bienestar.",
+    "idealPara": "prevención de infecciones urinarias (ITU), molestias urinarias, irritación vesical",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente en épocas propensas a ITU",
+    "precauciones": "evitar si se es alérgico a los arándanos o si se toman anticoagulantes",
+    "ingredientes": [
+      "1 cucharada de arándanos secos",
+      "1 cucharadita de pétalos de rosa",
+      "1 cucharadita de toronjil (lemon balm)",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Infusiona los arándanos y las hierbas en el agua hirviendo durante 15 minutos.",
+      "Cuela y sirve caliente."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "mejor fresco; la mezcla seca dura 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "102",
+    "category": "Sistema Urinario y Renal",
+    "title": "Té de apoyo para enfermedad renal crónica leve",
+    "description": "Un té suave formulado para reducir el estrés renal y apoyar a quienes padecen enfermedad renal crónica leve.",
+    "idealPara": "apoyo en CKD leve, inflamación renal, bienestar general",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "diariamente junto al cuidado profesional",
+    "precauciones": "no sustituye tratamiento médico; consultar antes con el médico",
+    "ingredientes": [
+      "1 cucharadita de raíz de malvavisco (marshmallow root)",
+      "1 cucharadita de hoja de ortiga",
+      "½ cucharadita de corteza de canela",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y deja reposar 10–12 minutos.",
+      "Cuela y bebe tibio."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; las hierbas secas se conservan 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "103",
+    "category": "Sistema Urinario y Renal",
+    "title": "Cubos herbales hidratantes",
+    "description": "Cubos herbales congelados que se pueden añadir al agua para apoyar la hidratación y la salud renal y urinaria.",
+    "idealPara": "hidratación, salud renal, prevención de ITU",
+    "tipo": "interno (cubos de infusión congelados)",
+    "cuandoUsarlo": "añadir al agua a lo largo del día",
+    "precauciones": "evitar hierbas que causen sensibilidad; no sustituyen la hidratación regular",
+    "ingredientes": [
+      "2 tazas de agua",
+      "1 cucharada de hoja de ortiga",
+      "1 cucharada de hoja de menta",
+      "1 cucharada de toronjil (lemon balm)",
+      "Bandeja para cubos de hielo"
+    ],
+    "instrucciones": [
+      "Infusiona las hierbas en agua hirviendo durante 10 minutos.",
+      "Cuela y deja enfriar.",
+      "Vierte en la bandeja y congela."
+    ],
+    "dosis": "añadir 1–2 cubos a un vaso de agua según necesidad.",
+    "almacenamiento": "guardar los cubos en el congelador hasta 2 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "104",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Infusión del valor (Bravery Brew)",
+    "description": "Un té herbal reconfortante diseñado para calmar el miedo y reforzar la fuerza interior. Esta mezcla cálida tranquiliza los nervios mientras fomenta suavemente la confianza y la resiliencia.",
+    "idealPara": "ansiedad, miedo, falta de coraje",
+    "tipo": "interno (té)",
+    "cuandoUsarlo": "antes de eventos estresantes o hablar en público",
+    "precauciones": "evitar durante el embarazo o si se toman sedantes",
+    "ingredientes": [
+      "1 cucharadita de toronjil (lemon balm)",
+      "1 cucharadita de tulsi (albahaca sagrada)",
+      "½ cucharadita de raíz de jengibre",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y tapa.",
+      "Deja reposar 12 minutos, luego cuela."
+    ],
+    "dosis": "1 taza según necesidad, hasta dos veces al día.",
+    "almacenamiento": "preparar fresco; las hierbas secas duran 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "105",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Elixir calma del fuego",
+    "description": "Un elixir herbal refrescante que alivia la irritabilidad, la ira y el calor emocional. Promueve el equilibrio interior y la claridad mental.",
+    "idealPara": "irritabilidad, enojo, estrés emocional",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "durante momentos de estrés o brotes emocionales",
+    "precauciones": "evitar si se toman sedantes fuertes o antidepresivos",
+    "ingredientes": [
+      "1 taza de agua",
+      "1 cucharadita de skullcap (escutelaria)",
+      "1 cucharadita de manzanilla",
+      "1 cucharadita de toronjil",
+      "1 cucharada de miel cruda"
+    ],
+    "instrucciones": [
+      "Hierve las hierbas en el agua durante 10 minutos.",
+      "Cuela y añade la miel.",
+      "Vierte en una botella pequeña de vidrio."
+    ],
+    "dosis": "1 cucharada según necesidad, hasta 3 veces al día.",
+    "almacenamiento": "refrigerar; dura 5 días.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "106",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Néctar de tranquilidad",
+    "description": "Un tónico dulce y suave que calma el sistema nervioso, alivia la tensión y favorece un sueño reparador.",
+    "idealPara": "ansiedad, estrés, insomnio",
+    "tipo": "interno (néctar/tónico)",
+    "cuandoUsarlo": "por la noche antes de dormir o durante días estresantes",
+    "precauciones": "evitar durante el embarazo o con medicación sedante",
+    "ingredientes": [
+      "1 taza de leche tibia (animal o vegetal)",
+      "1 cucharadita de polvo de ashwagandha",
+      "½ cucharadita de nuez moscada",
+      "1 cucharadita de miel"
+    ],
+    "instrucciones": [
+      "Calienta la leche en un cazo.",
+      "Añade la ashwagandha y la nuez moscada.",
+      "Agrega la miel antes de servir."
+    ],
+    "dosis": "1 taza antes de dormir.",
+    "almacenamiento": "consumir fresco.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "107",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Elixir de confianza",
+    "description": "Una mezcla estimulante que eleva el ánimo, agudiza el enfoque y fortalece la autoconfianza. Los cítricos y adaptógenos se combinan para aportar energía y motivación.",
+    "idealPara": "baja autoestima, fatiga, falta de motivación",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "por la mañana o antes de eventos importantes",
+    "precauciones": "evitar si se padece ansiedad o sensibilidad a estimulantes",
+    "ingredientes": [
+      "Jugo de 1 naranja",
+      "½ cucharadita de polvo de maca",
+      "½ cucharadita de polvo de rodiola",
+      "1 cucharadita de miel"
+    ],
+    "instrucciones": [
+      "Mezcla el jugo de naranja con la maca y la rodiola.",
+      "Remueve hasta disolver.",
+      "Añade la miel y sirve fresco."
+    ],
+    "dosis": "1 vaso pequeño al día.",
+    "almacenamiento": "consumir inmediatamente.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "108",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Chai relajante de raíz de kava",
+    "description": "Un chai tibio infusionado con raíz de kava para una relajación profunda. Reduce el estrés, promueve la calma y alivia la tensión nerviosa.",
+    "idealPara": "estrés, ansiedad, inquietud",
+    "tipo": "interno (té chai)",
+    "cuandoUsarlo": "por la noche o durante períodos de alto estrés",
+    "precauciones": "evitar si existen problemas hepáticos o se consume alcohol",
+    "ingredientes": [
+      "1 cucharadita de polvo de raíz de kava",
+      "1 taza de leche (animal o vegetal)",
+      "½ cucharadita de canela",
+      "½ cucharadita de cardamomo",
+      "½ cucharadita de jengibre en polvo",
+      "1 cucharadita de miel"
+    ],
+    "instrucciones": [
+      "Calienta la leche en un cazo.",
+      "Añade la kava y las especias.",
+      "Endulza con miel."
+    ],
+    "dosis": "1 taza al día por la noche.",
+    "almacenamiento": "preparar fresco; el polvo de kava dura 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "109",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Gotas sagradas de dopamina",
+    "description": "Una tintura concentrada para elevar el ánimo, equilibrar la dopamina y restaurar la motivación.",
+    "idealPara": "bajo estado de ánimo, falta de concentración, agotamiento",
+    "tipo": "interno (tintura)",
+    "cuandoUsarlo": "por la mañana o a media tarde para claridad mental",
+    "precauciones": "evitar con antidepresivos o durante el embarazo",
+    "ingredientes": [
+      "2 cucharadas de polvo de mucuna pruriens",
+      "1 cucharada de raíz de ginseng",
+      "1 taza de alcohol al 40 % (vodka o brandy)"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en un frasco esterilizado.",
+      "Cubre con el alcohol y sella.",
+      "Agita cada 2 días durante 4 semanas.",
+      "Cuela en una botella con cuentagotas."
+    ],
+    "dosis": "10–15 gotas en agua al día.",
+    "almacenamiento": "se conserva 1 año en vidrio oscuro.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "110",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Tónico raíz y ascenso",
+    "description": "Un tónico energizante que conecta el cuerpo con la tierra mientras eleva la energía y la concentración mental.",
+    "idealPara": "fatiga, niebla mental, baja resistencia",
+    "tipo": "interno (tónico)",
+    "cuandoUsarlo": "por la mañana o a primera hora de la tarde",
+    "precauciones": "evitar por la noche o en casos de hipertensión",
+    "ingredientes": [
+      "1 cucharadita de raíz de ginseng",
+      "1 cucharadita de raíz de ashwagandha",
+      "½ cucharadita de raíz de jengibre",
+      "2 tazas de agua hirviendo"
+    ],
+    "instrucciones": [
+      "Coloca las hierbas en una tetera.",
+      "Vierte el agua hirviendo y deja reposar 12 minutos.",
+      "Cuela y sirve caliente."
+    ],
+    "dosis": "1 taza diaria.",
+    "almacenamiento": "preparar fresco; las hierbas secas duran 6 meses.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "111",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Barras de energía Pulsefire",
+    "description": "Barras nutritivas diseñadas para aumentar la resistencia, la concentración y la producción de dopamina. Los adaptógenos y azúcares naturales aportan energía limpia.",
+    "idealPara": "fatiga, niebla mental, combustible para estudio o entrenamiento",
+    "tipo": "interno (barra de snack)",
+    "cuandoUsarlo": "a media mañana o antes del ejercicio",
+    "precauciones": "evitar el exceso si se es sensible a la cafeína o estimulantes",
+    "ingredientes": [
+      "1 taza de dátiles",
+      "½ taza de avena",
+      "2 cucharadas de polvo de maca",
+      "1 cucharada de nibs de cacao",
+      "1 cucharada de semillas de chía"
+    ],
+    "instrucciones": [
+      "Mezcla todos los ingredientes hasta obtener una masa pegajosa.",
+      "Presiona en un molde y refrigera 1 hora.",
+      "Corta en barras."
+    ],
+    "dosis": "1 barra diaria según necesidad.",
+    "almacenamiento": "refrigerar; dura 1 semana.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "112",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Elixir matutino de dopamina",
+    "description": "Un elixir brillante y refrescante para despertar la mente, mejorar la concentración y comenzar el día con energía positiva.",
+    "idealPara": "baja energía, niebla mental, mañanas lentas",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "por la mañana al despertar",
+    "precauciones": "evitar por la noche o si se padece ansiedad",
+    "ingredientes": [
+      "Jugo de ½ limón",
+      "½ cucharadita de polvo de maca",
+      "½ cucharadita de polvo de té verde",
+      "1 cucharadita de miel",
+      "1 taza de agua tibia"
+    ],
+    "instrucciones": [
+      "Mezcla el jugo de limón, la maca y el té verde en el agua.",
+      "Añade la miel.",
+      "Bebe fresco."
+    ],
+    "dosis": "1 taza cada mañana.",
+    "almacenamiento": "preparar fresco diariamente.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "113",
+    "category": "Remedios Emocionales y Energéticos",
+    "title": "Elixir despertador total",
+    "description": "Un elixir potente que combina adaptógenos, energizantes y cítricos para un inicio de día fuerte.",
+    "idealPara": "baja energía, fatiga suprarrenal, falta de motivación",
+    "tipo": "interno (elixir)",
+    "cuandoUsarlo": "por la mañana, antes del desayuno",
+    "precauciones": "evitar por la noche o en casos de ansiedad elevada",
+    "ingredientes": [
+      "Jugo de ½ naranja",
+      "½ cucharadita de polvo de ginseng",
+      "½ cucharadita de polvo de maca",
+      "½ cucharadita de polvo de rodiola",
+      "1 cucharadita de miel",
+      "1 taza de agua"
+    ],
+    "instrucciones": [
+      "Mezcla los polvos con el jugo de naranja y el agua.",
+      "Remueve hasta obtener una mezcla uniforme.",
+      "Añade la miel y sirve."
+    ],
+    "dosis": "1 vaso por la mañana.",
+    "almacenamiento": "consumir fresco.",
+    "isQuick": false,
+    "efecto": ""
+  },
+  {
+    "id": "114",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Infusión Suave de Menta y Anís",
+    "description": "Una mezcla ligera que calma la hinchazón y devuelve ligereza tras comidas copiosas.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de hojas de menta seca",
+      "½ cucharadita de anís en grano",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos y bebe lentamente, respirando el vapor."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Relaja el abdomen, estimula la digestión y disipa el malestar estomacal."
+  },
+  {
+    "id": "115",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Tónico de Jengibre y Limón",
+    "description": "El clásico remedio de cocina que despierta la digestión y corta la pesadez.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "Jugo de ½ limón",
+      "1 rodaja de jengibre fresco",
+      "miel al gusto",
+      "agua tibia."
+    ],
+    "instrucciones": [
+      "Mezcla y bebe antes o después de comidas abundantes."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Activa los jugos gástricos y aligera el tránsito intestinal."
+  },
+  {
+    "id": "116",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Compresa de Manzanilla y Hinojo",
+    "description": "Ideal para aliviar calambres o gases intestinales de forma natural.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de flores de manzanilla",
+      "1 cucharadita de semillas de hinojo",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Empapa un paño limpio en la infusión, exprímelo y colócalo tibio sobre el vientre."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Relaja la musculatura abdominal y favorece la eliminación de gases."
+  },
+  {
+    "id": "117",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Gotas Digestivas de Menta y Jengibre",
+    "description": "Para llevar siempre contigo cuando comes fuera de casa.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 gotas de aceite esencial de menta",
+      "1 gota de aceite esencial de jengibre",
+      "diluidos en 1 cucharada de aceite portador (almendra o oliva)."
+    ],
+    "instrucciones": [
+      "Masajea suavemente en el abdomen, en movimientos circulares."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula el flujo digestivo y alivia el reflujo leve."
+  },
+  {
+    "id": "118",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Té Refrescante de Limón y Albahaca",
+    "description": "Suaviza la acidez y refresca el aliento tras las comidas.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "4 hojas frescas de albahaca",
+      "piel de limón",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 5 minutos, cuela y bebe despacio."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Neutraliza el exceso de ácido y despeja el estómago."
+  },
+  {
+    "id": "119",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Agua Tibia con Vinagre de Manzana",
+    "description": "Un clásico de la herbolaria moderna para activar la digestión matutina.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de vinagre de manzana",
+      "1 taza de agua tibia",
+      "unas gotas de miel."
+    ],
+    "instrucciones": [
+      "Bebe en ayunas, lentamente."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula el metabolismo y prepara el estómago para recibir los alimentos."
+  },
+  {
+    "id": "120",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Infusión de Laurel y Clavo",
+    "description": "Remedio tradicional contra digestiones lentas y sensación de empacho.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 hoja de laurel",
+      "1 clavo de olor",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 10 minutos, cuela y bebe antes de dormir."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula el hígado y alivia la sensación de plenitud abdominal."
+  },
+  {
+    "id": "121",
+    "category": "Sistema Digestivo",
+    "isQuick": true,
+    "title": "Polvo Digestivo de Semillas",
+    "description": "Una mezcla seca, práctica y duradera para usar tras las comidas.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "Semillas molidas de hinojo",
+      "comino y cilantro a partes iguales."
+    ],
+    "instrucciones": [
+      "Mastica ½ cucharadita o disuelve en agua tibia tras comer."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Favorece la digestión y reduce la fermentación intestinal. Sistema Cardiovascular Remedios rápidos para fortalecer el corazón y mejorar la circulación"
+  },
+  {
+    "id": "122",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Tónico de Ajo y Limón",
+    "description": "Un clásico de la medicina casera para limpiar las arterias y vigorizar el corazón.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 diente de ajo machacado",
+      "jugo de ½ limón",
+      "1 taza de agua tibia."
+    ],
+    "instrucciones": [
+      "Mezcla, deja reposar 5 minutos y bebe lentamente por la mañana."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Favorece la circulación, ayuda a reducir el colesterol y fortalece el sistema cardiovascular."
+  },
+  {
+    "id": "123",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Infusión de Espino Blanco",
+    "description": "El remedio de los herbolarios europeos por excelencia.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de flores y hojas de espino blanco",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y bebe dos veces al día."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Regula la presión arterial y mejora el ritmo del corazón."
+  },
+  {
+    "id": "124",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Elixir de Granada y Miel",
+    "description": "Dulce y tónico, ideal para las tardes o tras el ejercicio.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ taza de jugo de granada",
+      "1 cucharadita de miel cruda."
+    ],
+    "instrucciones": [
+      "Mezcla y bebe lentamente."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Rico en antioxidantes que protegen las arterias y refuerzan la vitalidad."
+  },
+  {
+    "id": "125",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Té de Canela y Cacao",
+    "description": "Una infusión cálida que activa la circulación y despierta el ánimo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de canela",
+      "1 cucharadita de cacao puro",
+      "1 taza de agua o leche vegetal caliente."
+    ],
+    "instrucciones": [
+      "Disuelve bien los ingredientes y endulza con miel si lo deseas."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula el flujo sanguíneo y aporta energía suave al cuerpo."
+  },
+  {
+    "id": "126",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Compresa de Romero y Sal Marina",
+    "description": "Para piernas cansadas o con mala circulación.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 ramas de romero fresco",
+      "1 cucharada de sal marina gruesa",
+      "1 litro de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 15 minutos, empapa un paño y colócalo tibio sobre las piernas."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Reactiva la microcirculación y reduce la sensación de pesadez."
+  },
+  {
+    "id": "127",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Tónico de Remolacha y Jengibre",
+    "description": "Color y fuerza en un solo sorbo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ remolacha pequeña",
+      "½ cucharadita de jengibre rallado",
+      "½ taza de agua."
+    ],
+    "instrucciones": [
+      "Licúa todo y bebe al instante."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Oxigena la sangre y refuerza la resistencia física."
+  },
+  {
+    "id": "128",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Infusión de Romero y Cáscara de Naranja",
+    "description": "Un remedio aromático para corazones fatigados.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 ramita de romero",
+      "cáscara seca de naranja",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 8 minutos y bebe aún tibio."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula la circulación coronaria y eleva el ánimo."
+  },
+  {
+    "id": "129",
+    "category": "Sistema Cardiovascular",
+    "isQuick": true,
+    "title": "Baño de Pies con Mostaza y Eucalipto",
+    "description": "Ideal para quienes sufren de pies fríos o retención.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de mostaza en polvo",
+      "4 gotas de aceite esencial de eucalipto",
+      "2 litros de agua caliente."
+    ],
+    "instrucciones": [
+      "Disuelve la mostaza y añade el aceite; sumerge los pies durante 10 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Activa la circulación periférica y relaja el sistema nervioso. Cuidado Metabólico y Control del Peso Remedios rápidos para activar el metabolismo y equilibrar el apetito"
+  },
+  {
+    "id": "130",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Agua Matutina de Limón y Cúrcuma",
+    "description": "Un comienzo simple para despertar el metabolismo con suavidad.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "Jugo de ½ limón",
+      "¼ de cucharadita de cúrcuma en polvo",
+      "una pizca de pimienta negra",
+      "1 taza de agua tibia."
+    ],
+    "instrucciones": [
+      "Mezcla bien y bebe en ayunas."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Activa el hígado, estimula la digestión y favorece la eliminación de toxinas."
+  },
+  {
+    "id": "131",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Té Verde con Menta y Jengibre",
+    "description": "El impulso ideal para media mañana o después del ejercicio.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de té verde",
+      "3 hojas de menta",
+      "una rodaja de jengibre fresco",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 5–7 minutos y cuela."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Aumenta la termogénesis natural y mejora la concentración."
+  },
+  {
+    "id": "132",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Vinagre Herbal Digestivo",
+    "description": "Un tónico ácido y aromático que equilibra los niveles de azúcar y estimula el metabolismo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 taza de vinagre de manzana",
+      "1 ramita de romero",
+      "1 rodaja de jengibre",
+      "1 cucharadita de semillas de mostaza."
+    ],
+    "instrucciones": [
+      "Macera en frasco de vidrio durante 3 días; usa 1 cucharadita diluida en agua antes de las comidas."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Regula la glucosa y mejora la digestión de grasas."
+  },
+  {
+    "id": "133",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Infusión de Canela y Cacao",
+    "description": "Un sustituto natural del café para quienes buscan energía sin nerviosismo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de canela en rama",
+      "1 cucharadita de cacao puro",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 8 minutos y endulza con miel si lo deseas."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Eleva el ánimo y estabiliza el azúcar en sangre."
+  },
+  {
+    "id": "134",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Tónico Verde Depurativo",
+    "description": "Una dosis vegetal para limpiar y reactivar el cuerpo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ pepino",
+      "1 rama de apio",
+      "un puñado de espinacas",
+      "jugo de ½ limón",
+      "½ taza de agua."
+    ],
+    "instrucciones": [
+      "Licúa y bebe de inmediato."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula los riñones, depura y aporta clorofila revitalizante."
+  },
+  {
+    "id": "135",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Infusión de Diente de León y Ortiga",
+    "description": "Un clásico herbario para depurar el organismo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de hojas secas de diente de león",
+      "½ cucharadita de ortiga",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y bebe en la mañana o tarde."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Favorece la eliminación de líquidos y apoya la función hepática."
+  },
+  {
+    "id": "136",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Spray Bucal Control del Apetito",
+    "description": "Un recurso rápido para frenar antojos sin recurrir al azúcar.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 gotas de aceite esencial de pomelo",
+      "1 gota de menta",
+      "1 cucharada de agua destilada."
+    ],
+    "instrucciones": [
+      "Mezcla en frasco con atomizador; aplica 1–2 pulverizaciones en la boca cuando aparezca el deseo de picar."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Refresca, limpia el paladar y reduce el apetito emocional."
+  },
+  {
+    "id": "137",
+    "category": "Metabolismo y Control de Peso",
+    "isQuick": true,
+    "title": "Infusión de Cáscara de Manzana y Clavo",
+    "description": "Un gesto cálido para las noches frías.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "Cáscara de una manzana",
+      "1 clavo de olor",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y bebe antes de dormir."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Promueve una digestión lenta y serena, ayuda al descanso y regula el metabolismo nocturno. Sistema Respiratorio Remedios rápidos para aliviar las vías respiratorias y fortalecer los pulmones"
+  },
+  {
+    "id": "138",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Inhalación de Eucalipto y Romero",
+    "description": "Un clásico para despejar los bronquios y aliviar la congestión.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "3 ramas de romero fresco",
+      "5 gotas de aceite esencial de eucalipto",
+      "1 litro de agua caliente."
+    ],
+    "instrucciones": [
+      "Vierte el agua en un cuenco, añade los aceites y cubre la cabeza con una toalla mientras inhalas el vapor durante 10 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Descongestiona, abre las vías respiratorias y despeja la mente."
+  },
+  {
+    "id": "139",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Jarabe Casero de Miel y Cebolla",
+    "description": "El remedio de abuelas y herbolarios para la tos persistente.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cebolla mediana",
+      "3 cucharadas de miel pura."
+    ],
+    "instrucciones": [
+      "Corta la cebolla en rodajas, cúbrela con miel y deja reposar toda la noche. Cuela al día siguiente. Uso: Toma una cucharadita tres veces al día."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Suaviza la garganta y calma la tos seca."
+  },
+  {
+    "id": "140",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Infusión de Tomillo y Limón",
+    "description": "Ideal al primer síntoma de resfriado o garganta irritada.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de tomillo seco",
+      "jugo de ½ limón",
+      "miel al gusto",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y añade el limón y la miel."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Antiséptico natural que despeja y tonifica el sistema respiratorio."
+  },
+  {
+    "id": "141",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Bálsamo de Pino y Lavanda",
+    "description": "Para frotar sobre el pecho antes de dormir.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "4 gotas de aceite esencial de pino",
+      "2 de lavanda."
+    ],
+    "instrucciones": [
+      "Mezcla bien y guarda en frasco pequeño. Uso: Masajea el pecho con movimientos circulares."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Relaja la respiración y ayuda a dormir mejor en procesos gripales."
+  },
+  {
+    "id": "142",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Vaporización de Salvia y Menta",
+    "description": "Un remedio rápido para aliviar la congestión nasal.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de hojas de salvia",
+      "1 cucharada de menta seca",
+      "1 litro de agua caliente."
+    ],
+    "instrucciones": [
+      "Inhala los vapores durante 5–7 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Limpia las vías respiratorias altas y despeja los senos nasales."
+  },
+  {
+    "id": "143",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Infusión ExpectoRápida de Jengibre y Clavo",
+    "description": "Una bebida cálida para eliminar la mucosidad y aliviar el pecho cargado.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "3 rodajas finas de jengibre fresco",
+      "1 clavo de olor",
+      "1 taza de agua."
+    ],
+    "instrucciones": [
+      "Hierve 10 minutos, cuela y endulza con miel."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Disuelve el moco y alivia la tos productiva."
+  },
+  {
+    "id": "144",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Gárgaras de Sal Marina y Propóleo",
+    "description": "Sencillas y efectivas ante las primeras molestias de garganta.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de sal marina",
+      "10 gotas de extracto de propóleo",
+      "1 vaso de agua tibia."
+    ],
+    "instrucciones": [
+      "Mezcla y realiza gárgaras 2–3 veces al día sin tragar."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Desinfecta, calma y reduce la inflamación."
+  },
+  {
+    "id": "145",
+    "category": "Sistema Respiratorio",
+    "isQuick": true,
+    "title": "Infusión Pulmonar de Malva y Llantén",
+    "description": "Una fórmula suave para cuidar los pulmones sensibles.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de flores de malva",
+      "1 cucharadita de hojas de llantén",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 10 minutos y cuela."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Suaviza la tos y ayuda a regenerar las mucosas respiratorias. Cerebro y Sistema Nervioso Remedios rápidos para calmar la mente, mejorar el enfoque y favorecer el descanso"
+  },
+  {
+    "id": "146",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Infusión Tranquila de Melisa y Azahar",
+    "description": "Una caricia herbal para los días de tensión y pensamiento acelerado.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de melisa seca",
+      "1 cucharadita de flores de azahar",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y bebe despacio."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Relaja el sistema nervioso, alivia la ansiedad y facilita el descanso."
+  },
+  {
+    "id": "147",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Tónico de Romero y Miel para la Concentración",
+    "description": "Un apoyo natural para momentos de estudio o trabajo intenso.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 ramita de romero fresco",
+      "1 cucharadita de miel",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 8 minutos y bebe por la mañana."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula la memoria, la claridad mental y la energía suave."
+  },
+  {
+    "id": "148",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Baño Relajante de Lavanda y Avena",
+    "description": "Un refugio sensorial para liberar el cuerpo de la tensión acumulada.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ taza de avena",
+      "2 cucharadas de flores secas de lavanda",
+      "1 bolsa de tela o gasa."
+    ],
+    "instrucciones": [
+      "Coloca los ingredientes en la bolsa y sumérgela en el agua del baño caliente."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Calma la mente y nutre la piel mientras el cuerpo se entrega al descanso."
+  },
+  {
+    "id": "149",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Gotas Calmantes de Pasiflora y Valeriana",
+    "description": "Para noches de insomnio o preocupaciones persistentes.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "10 gotas de tintura de pasiflora",
+      "10 gotas de tintura de valeriana",
+      "½ vaso de agua."
+    ],
+    "instrucciones": [
+      "Bebe lentamente antes de acostarte."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Induce un sueño reparador y reduce la tensión emocional."
+  },
+  {
+    "id": "150",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Infusión de Ginkgo y Limón",
+    "description": "Perfecta para quienes buscan claridad mental sin estimulación excesiva.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de hojas de ginkgo",
+      "piel de limón",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos y bebe en la mañana."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Mejora la circulación cerebral y favorece la concentración."
+  },
+  {
+    "id": "151",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Aceite de Masaje de Manzanilla y Naranja",
+    "description": "El aliado perfecto para liberar el cuello y los hombros tensos.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 cucharadas de aceite de almendra",
+      "2 gotas de aceite esencial de manzanilla",
+      "2 gotas de aceite esencial de naranja dulce."
+    ],
+    "instrucciones": [
+      "Masajea suavemente la nuca y los hombros al final del día."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Relaja la musculatura y disuelve la carga mental acumulada."
+  },
+  {
+    "id": "152",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Spray Ambiental de Lavanda y Salvia Blanca",
+    "description": "Para limpiar el espacio y refrescar la energía mental.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "100 ml de agua destilada",
+      "10 gotas de aceite esencial de lavanda",
+      "5 de salvia blanca."
+    ],
+    "instrucciones": [
+      "Mezcla en frasco con atomizador y agita antes de usar. Uso: Pulveriza en el ambiente o sobre la almohada."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Purifica el aire y calma la mente antes del descanso."
+  },
+  {
+    "id": "153",
+    "category": "Cerebro y Sistema Nervioso",
+    "isQuick": true,
+    "title": "Cacao Sereno con Canela y Avena",
+    "description": "Una bebida tibia para cerrar el día con dulzura y presencia.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de cacao puro",
+      "1 cucharadita de avena molida",
+      "1 pizca de canela",
+      "1 taza de leche vegetal caliente."
+    ],
+    "instrucciones": [
+      "Mezcla bien hasta obtener una textura suave."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Eleva el ánimo, equilibra el sistema nervioso y promueve un sueño reparador. Piel y Heridas Remedios rápidos para calmar, proteger y regenerar la piel"
+  },
+  {
+    "id": "154",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Bálsamo de Caléndula y Coco",
+    "description": "El remedio esencial para pequeñas irritaciones, cortes o quemaduras leves.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 cucharadas de aceite de coco",
+      "1 cucharadita de flores secas de caléndula."
+    ],
+    "instrucciones": [
+      "Calienta suavemente a baño maría durante 20 minutos, filtra y guarda en un frasco."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Regenera los tejidos y calma la piel inflamada."
+  },
+  {
+    "id": "155",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Compresa de Manzanilla y Avena",
+    "description": "Ideal para calmar la piel tras la exposición solar o el picor por sequedad.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de flores de manzanilla",
+      "1 cucharada de avena",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 10 minutos, empapa un paño y aplícalo tibio sobre la zona afectada."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Suaviza, hidrata y reduce la irritación."
+  },
+  {
+    "id": "156",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Spray de Lavanda y Hamamelis",
+    "description": "Refrescante y antibacteriano, perfecto para pieles sensibles o con enrojecimiento.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ taza de agua de hamamelis",
+      "10 gotas de aceite esencial de lavanda."
+    ],
+    "instrucciones": [
+      "Mezcla en frasco con atomizador y agita antes de usar."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Desinfecta y refresca la piel tras la limpieza o el afeitado."
+  },
+  {
+    "id": "157",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Cataplasma de Arcilla Verde y Aloe Vera",
+    "description": "Para picaduras, granitos o pequeñas infecciones cutáneas.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de arcilla verde",
+      "1 cucharadita de gel puro de aloe vera",
+      "agua tibia suficiente para formar una pasta."
+    ],
+    "instrucciones": [
+      "Mezcla y aplica directamente sobre la zona; deja actuar 15 minutos y retira con agua."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Extrae impurezas, reduce la inflamación y acelera la cicatrización."
+  },
+  {
+    "id": "158",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Aceite Reparador de Rosa Mosqueta",
+    "description": "Un clásico para manchas, cicatrices o piel apagada.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de aceite de rosa mosqueta",
+      "2 gotas de aceite esencial de incienso."
+    ],
+    "instrucciones": [
+      "Aplica unas gotas sobre la piel limpia antes de dormir."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Regenera en profundidad y mejora la elasticidad cutánea."
+  },
+  {
+    "id": "159",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Baño de Caléndula y Sal Marina",
+    "description": "Ideal para pieles irritadas, eccemas leves o zonas con picor persistente.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 puñado de flores de caléndula",
+      "2 cucharadas de sal marina",
+      "2 litros de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona la caléndula, añade la sal y vierte en el agua del baño."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Purifica, calma y reequilibra la piel."
+  },
+  {
+    "id": "160",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Ungüento de Cera de Abeja y Miel",
+    "description": "Remedio tradicional para labios, manos agrietadas o talones secos.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de cera de abeja",
+      "1 cucharada de miel",
+      "1 cucharada de aceite de oliva."
+    ],
+    "instrucciones": [
+      "Funde la cera y mezcla con los otros ingredientes. Guarda en un tarro pequeño."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Nutre, protege y deja una película humectante natural."
+  },
+  {
+    "id": "161",
+    "category": "Piel y Heridas",
+    "isQuick": true,
+    "title": "Agua Floral de Rosas y Pepino",
+    "description": "Tónico suave para el rostro, ideal al despertar o antes del descanso.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ taza de agua de rosas",
+      "2 cucharadas de jugo de pepino fresco."
+    ],
+    "instrucciones": [
+      "Mezcla y conserva en el refrigerador. Uso: Pulveriza sobre el rostro limpio o aplica con algodón."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Tonifica, refresca y devuelve luminosidad a la piel fatigada. Sistema Musculoesquelético Remedios rápidos para relajar, calmar y fortalecer músculos y articulaciones"
+  },
+  {
+    "id": "162",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Compresa de Romero y Sal Marina",
+    "description": "Un alivio inmediato para músculos tensos o cansados.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 ramas de romero fresco",
+      "1 cucharada de sal marina",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 10 minutos, empapa un paño y colócalo tibio sobre la zona dolorida."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula la circulación, reduce la inflamación y relaja la tensión muscular."
+  },
+  {
+    "id": "163",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Baño de Epsom y Lavanda",
+    "description": "Clásico relajante para el final del día.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ taza de sales de Epsom",
+      "5 gotas de aceite esencial de lavanda."
+    ],
+    "instrucciones": [
+      "Disuélvelo en el agua caliente del baño y sumérgete durante 20 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Favorece la eliminación de toxinas y alivia el cansancio muscular."
+  },
+  {
+    "id": "164",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Aceite de Masaje con Árnica y Menta",
+    "description": "Perfecto para después del ejercicio o esfuerzo físico.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 cucharadas de aceite portador (almendra o oliva)",
+      "10 gotas de aceite de árnica",
+      "2 gotas de aceite esencial de menta."
+    ],
+    "instrucciones": [
+      "Masajea con movimientos circulares sobre las zonas cargadas."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Reduce la rigidez, calma el dolor y mejora la recuperación muscular."
+  },
+  {
+    "id": "165",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Infusión Antiinflamatoria de Cúrcuma y Jengibre",
+    "description": "Remedio interno para acompañar los dolores articulares o musculares.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de cúrcuma en polvo",
+      "½ cucharadita de jengibre rallado",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, añade miel si lo deseas."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Disminuye la inflamación y mejora la movilidad."
+  },
+  {
+    "id": "166",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Cataplasma de Arcilla y Romero",
+    "description": "Para golpes leves, sobrecargas o esguinces menores.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 cucharadas de arcilla verde",
+      "1 cucharadita de tintura de romero",
+      "agua tibia hasta formar una pasta."
+    ],
+    "instrucciones": [
+      "Aplica sobre la zona afectada, cubre con una gasa y deja actuar 20 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Descongestiona, desinflama y acelera la recuperación."
+  },
+  {
+    "id": "167",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Tisana de Cola de Caballo y Limón",
+    "description": "Una infusión remineralizante que fortalece huesos y tendones.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de cola de caballo",
+      "piel de limón",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos y cuela."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Aporta sílice natural y estimula la regeneración del tejido conectivo."
+  },
+  {
+    "id": "168",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Compresa de Laurel y Jengibre",
+    "description": "Remedio casero para articulaciones frías o entumecidas.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "3 hojas de laurel",
+      "3 rodajas de jengibre",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Hierve 10 minutos, empapa un paño y aplica caliente sobre la articulación."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Mejora la flexibilidad y disipa la rigidez."
+  },
+  {
+    "id": "169",
+    "category": "Sistema Musculoesquelético",
+    "isQuick": true,
+    "title": "Crema de Caléndula y Miel para Golpes",
+    "description": "Suave pero efectiva para contusiones o hematomas menores.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de crema base neutra",
+      "1 cucharadita de extracto de caléndula",
+      "½ cucharadita de miel."
+    ],
+    "instrucciones": [
+      "Mezcla y aplica directamente sobre la piel limpia."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Reduce la inflamación, acelera la cicatrización y suaviza la piel. Defensas e Inmunidad Remedios rápidos para fortalecer las defensas y mantener el cuerpo resiliente"
+  },
+  {
+    "id": "170",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Tónico de Jengibre, Limón y Miel",
+    "description": "La combinación clásica que sostiene al cuerpo en días fríos o de debilidad.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "Jugo de ½ limón",
+      "1 rodaja de jengibre fresco rallado",
+      "1 cucharadita de miel."
+    ],
+    "instrucciones": [
+      "Mezcla los ingredientes en agua tibia y bebe lentamente."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula las defensas, suaviza la garganta y aporta energía natural."
+  },
+  {
+    "id": "171",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Infusión de Equinácea y Saúco",
+    "description": "Dos guardianes del sistema inmunitario en una sola taza.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de raíz de equinácea",
+      "1 cucharadita de flores de saúco",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y bebe a sorbos lentos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Refuerza la inmunidad y acorta la duración de los resfriados."
+  },
+  {
+    "id": "172",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Elixir Dorado Antiinflamatorio",
+    "description": "Inspirado en la leche dorada ayurvédica, suave y restaurador.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de cúrcuma",
+      "1 pizca de pimienta negra",
+      "1 taza de leche vegetal caliente",
+      "miel al gusto."
+    ],
+    "instrucciones": [
+      "Mezcla bien y bebe tibio."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Disminuye la inflamación y fortalece el sistema inmunológico."
+  },
+  {
+    "id": "173",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Jarabe de Ajo y Miel",
+    "description": "Un tónico tradicional para prevenir infecciones respiratorias.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 dientes de ajo picados",
+      "3 cucharadas de miel pura."
+    ],
+    "instrucciones": [
+      "Deja reposar toda la noche y toma una cucharadita diaria."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Antibacteriano, antiviral y expectorante natural."
+  },
+  {
+    "id": "174",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Infusión de Tomillo y Limón",
+    "description": "Perfecta para los primeros síntomas de resfriado.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de tomillo seco",
+      "jugo de ½ limón",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y añade el limón."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Desinfecta, estimula la inmunidad y despeja las vías respiratorias."
+  },
+  {
+    "id": "175",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Shot Verde de Clorofila y Limón",
+    "description": "Pequeño pero poderoso, para revitalizar desde adentro.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de clorofila líquida",
+      "jugo de ½ limón",
+      "½ taza de agua fría."
+    ],
+    "instrucciones": [
+      "Mezcla bien y bebe al instante."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Alcaliniza, oxigena y refuerza la respuesta inmunitaria."
+  },
+  {
+    "id": "176",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Inhalación de Eucalipto y Salvia",
+    "description": "Ideal para limpiar el ambiente y despejar el sistema respiratorio.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "5 gotas de aceite esencial de eucalipto",
+      "3 de salvia",
+      "1 litro de agua caliente."
+    ],
+    "instrucciones": [
+      "Inhala el vapor durante 5–10 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Antiséptico natural, purifica los pulmones y renueva la energía."
+  },
+  {
+    "id": "177",
+    "category": "Defensa Inmunitaria",
+    "isQuick": true,
+    "title": "Infusión de Reishi y Cacao",
+    "description": "Una bebida reparadora para el cuerpo y el espíritu.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de polvo de reishi",
+      "1 cucharadita de cacao puro",
+      "1 taza de leche vegetal caliente."
+    ],
+    "instrucciones": [
+      "Mezcla y endulza al gusto."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Fortalece el sistema inmunitario y calma el estrés que debilita las defensas. Equilibrio Hormonal y Emocional Remedios rápidos para armonizar el cuerpo, el ánimo y la energía vital"
+  },
+  {
+    "id": "178",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Infusión de Salvia y Canela para el Ciclo",
+    "description": "Equilibra los altibajos hormonales y suaviza el ánimo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de salvia seca",
+      "½ rama de canela",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y bebe tibia."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Regula el ciclo menstrual, reduce cólicos y calma la mente."
+  },
+  {
+    "id": "179",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Tónico de Maca y Cacao",
+    "description": "Energía vital y balance interior en una taza.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de maca",
+      "1 de cacao puro",
+      "1 taza de leche vegetal caliente",
+      "miel al gusto."
+    ],
+    "instrucciones": [
+      "Mezcla bien hasta disolver."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Aumenta la vitalidad, mejora el estado de ánimo y apoya la función endocrina."
+  },
+  {
+    "id": "180",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Tisana de Hojas de Frambuesa y Rosa",
+    "description": "Un gesto de amor propio para días de sensibilidad o cansancio emocional.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de hojas de frambuesa",
+      "1 cucharadita de pétalos de rosa secos",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos y bebe despacio."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Tonifica el sistema reproductivo y relaja el corazón emocional."
+  },
+  {
+    "id": "181",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Aceite de Masaje de Geranio y Lavanda",
+    "description": "Para reconectar con la calma y la feminidad interior.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 cucharadas de aceite de almendra",
+      "3 gotas de geranio",
+      "2 de lavanda."
+    ],
+    "instrucciones": [
+      "Masajea el abdomen bajo o el pecho en círculos lentos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Equilibra las hormonas, libera tensión y fomenta serenidad."
+  },
+  {
+    "id": "182",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Elixir de Miel y Azafrán",
+    "description": "Inspirado en la medicina persa, símbolo de alegría y claridad interior.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 pizca de hebras de azafrán",
+      "1 cucharadita de miel",
+      "½ taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Mezcla hasta disolver."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Eleva el ánimo y suaviza los síntomas del cansancio hormonal."
+  },
+  {
+    "id": "183",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Bruma de Bergamota y Naranja Dulce",
+    "description": "Un rocío para momentos de irritabilidad o desánimo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ taza de agua destilada",
+      "5 gotas de bergamota",
+      "3 de naranja dulce."
+    ],
+    "instrucciones": [
+      "Agita antes de usar y pulveriza en el aire o sobre la ropa."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Refresca, aporta ligereza emocional y renueva la energía vital."
+  },
+  {
+    "id": "184",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Baño Relajante de Lavanda y Sales",
+    "description": "Un ritual sencillo para liberar tensión y promover descanso profundo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ taza de sales de Epsom",
+      "5 gotas de aceite esencial de lavanda."
+    ],
+    "instrucciones": [
+      "Disuélvelo en el agua del baño y sumérgete 20 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Relaja el cuerpo, mejora el sueño y limpia la energía emocional."
+  },
+  {
+    "id": "185",
+    "category": "Remedios Emocionales y Energéticos",
+    "isQuick": true,
+    "title": "Infusión de Manzanilla y Miel",
+    "description": "Sencilla pero esencial: el bálsamo de los días agitados.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de manzanilla",
+      "1 cucharadita de miel",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos y endulza."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Calma el sistema nervioso, equilibra el ánimo y reconforta el corazón. Sistema Urinario y Renal Remedios rápidos para depurar el organismo, aliviar la retención y proteger los riñones"
+  },
+  {
+    "id": "186",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Infusión de Perejil y Limón",
+    "description": "Un clásico depurativo para estimular la función renal.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de hojas frescas de perejil",
+      "jugo de ½ limón",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona el perejil 10 minutos, añade el limón y bebe tibio."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Favorece la eliminación de líquidos y limpia suavemente los riñones."
+  },
+  {
+    "id": "187",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Agua de Pepino y Menta",
+    "description": "Refrescante y ligera, ideal para días calurosos o de retención.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "3 rodajas de pepino",
+      "4 hojas de menta",
+      "1 vaso de agua fría."
+    ],
+    "instrucciones": [
+      "Deja reposar 15 minutos antes de beber."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Hidrata profundamente y apoya la función diurética natural."
+  },
+  {
+    "id": "188",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Infusión de Diente de León y Cola de Caballo",
+    "description": "Una combinación clásica para depurar sin agotar el cuerpo.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "½ cucharadita de diente de león seco",
+      "½ cucharadita de cola de caballo",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 10 minutos, cuela y bebe por la mañana."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula la función renal y ayuda a eliminar toxinas acumuladas."
+  },
+  {
+    "id": "189",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Compresa de Caléndula y Manzanilla",
+    "description": "Calmante para molestias en la zona lumbar asociadas al riñón.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharada de flores de caléndula",
+      "1 cucharada de manzanilla",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar, empapa un paño y colócalo tibio en la parte baja de la espalda durante 15 minutos."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Relaja la zona, reduce la tensión y mejora el flujo renal."
+  },
+  {
+    "id": "190",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Tónico de Apio y Manzana Verde",
+    "description": "Un jugo depurativo lleno de frescura y vitalidad.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 tallo de apio",
+      "½ manzana verde",
+      "½ taza de agua."
+    ],
+    "instrucciones": [
+      "Licúa y bebe al instante."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Estimula la micción, remineraliza y aporta clorofila purificadora."
+  },
+  {
+    "id": "191",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Infusión de Ortiga y Hibisco",
+    "description": "Ligera, diurética y rica en antioxidantes naturales.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de hojas de ortiga",
+      "½ cucharadita de flores de hibisco",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 8–10 minutos, cuela y bebe en la tarde."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Limpia el sistema urinario y protege los capilares renales."
+  },
+  {
+    "id": "192",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Baño de Pies con Sal y Romero",
+    "description": "Un método ancestral para aliviar la retención y drenar líquidos.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "2 cucharadas de sal marina",
+      "1 ramita de romero",
+      "2 litros de agua caliente."
+    ],
+    "instrucciones": [
+      "Deja reposar 10 minutos y sumerge los pies durante 15."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Favorece la circulación y el drenaje natural."
+  },
+  {
+    "id": "193",
+    "category": "Sistema Urinario y Renal",
+    "isQuick": true,
+    "title": "Tisana Lunar de Flor de Saúco y Miel",
+    "description": "Delicada y reconfortante para los días en que el cuerpo necesita soltar.",
+    "idealPara": "",
+    "tipo": "remedio rápido",
+    "cuandoUsarlo": "",
+    "precauciones": "",
+    "ingredientes": [
+      "1 cucharadita de flores de saúco",
+      "1 cucharadita de miel",
+      "1 taza de agua caliente."
+    ],
+    "instrucciones": [
+      "Infusiona 5 minutos y endulza."
+    ],
+    "dosis": "",
+    "almacenamiento": "",
+    "efecto": "Apoya el equilibrio hídrico, limpia los canales linfáticos y calma el espíritu."
+  }
+]
