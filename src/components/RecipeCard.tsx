@@ -1,31 +1,27 @@
-import Link from "next/link";
-import type { Recipe } from "@/lib/types";
+import { getAllRecipes, getAllCategories } from "@/lib/data";
+import RecipeBrowser from "@/components/RecipeBrowser";
 
-export default function RecipeCard({ recipe }: { recipe: Recipe }) {
+export default function Home() {
+  const recipes = getAllRecipes();
+  const categories = getAllCategories();
+
   return (
-    <Link
-      href={`/remedio/${recipe.id}`}
-      className="group flex flex-col gap-2 rounded-xl border border-brand-light bg-white p-4 shadow-sm transition hover:shadow-md hover:border-brand"
-    >
-      <div className="flex items-start justify-between gap-2">
-        <h3 className="font-semibold text-brand-dark group-hover:text-brand">
-          {recipe.title}
-        </h3>
-        {recipe.isQuick && (
-          <span className="shrink-0 rounded-full bg-accent/10 px-2 py-0.5 text-[10px] font-medium text-accent">
-            Rápido
-          </span>
-        )}
-      </div>
-      <p className="text-xs font-medium text-brand/80">{recipe.category}</p>
-      <p className="text-sm text-foreground/70 line-clamp-3">
-        {recipe.description || recipe.efecto}
-      </p>
-      {recipe.idealPara && (
-        <p className="text-xs text-foreground/50 mt-auto pt-2">
-          Ideal para: {recipe.idealPara}
+    <div className="max-w-6xl mx-auto px-4 py-8 flex flex-col gap-8">
+      <section className="flex flex-col gap-3">
+        <h1 className="text-2xl md:text-3xl font-bold text-brand-dark">
+          Los 200 Remedios Naturales
+        </h1>
+        <p className="text-foreground/70 max-w-2xl">
+          Un catálogo de {recipes.length} remedios naturales — tés, tónicos,
+          elixires, compresas y más — organizados por sistema del cuerpo.
+          Busca por síntoma, ingrediente o nombre.
         </p>
-      )}
-    </Link>
+        <blockquote className="border-l-2 border-brand pl-4 py-1 max-w-2xl text-brand-dark/80 italic">
+          &ldquo;Prepara estos remedios como quien enciende una vela: con
+          atención tranquila.&rdquo;
+        </blockquote>
+      </section>
+      <RecipeBrowser recipes={recipes} categories={categories} />
+    </div>
   );
 }
